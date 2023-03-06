@@ -1,0 +1,4552 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/SzLy0ZloqObm1D7fuJEPf/bead7f6394816605e6e5f59acd47b4c1/catalog-card_2x__1_.jpg",
+      "title": "Data Engineering with AWS",
+      "summary": "Learn to design data models, build data warehouses and data lakes, automate data pipelines, and manage massive datasets.",
+      "skillsCoverd": [
+        "AWS Glue",
+        "Amazon S3",
+        "AWS Data Warehouse",
+        "Redshift",
+        "Apache Airflow",
+        "Data Pipeline DAGs",
+        "Data Extraction",
+        "Data Pipeline Creation",
+        "ETL",
+        "OLAP Cubes",
+        "Data Warehouse Architecture",
+        "Cloud Computing Fluency",
+        "Data Pipeline MaintenanceIntermediate Python",
+        "intermediate SQL & command line"
+      ],
+      "reviewCount": 1808,
+      "Prerequisites": "Intermediate Python, intermediate SQL & command line",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 91.9137
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd000/nd-card.jpg",
+      "title": "Introduction to Programming",
+      "summary": "A first step for beginners towards careers in web and app development, machine learning, data science, AI, and more.",
+      "skillsCoverd": [
+        "Front-End Development Basics",
+        "HTML",
+        "CSS",
+        "Python Syntax",
+        "Text Processing in Python",
+        "DevTools",
+        "Command Line Interface Basics",
+        "Code Debugging",
+        "Basic JavaScript Scripts",
+        "JavaScript Functions",
+        "JavaScript Arrays",
+        "JavaScript ObjectsNo coding experience needed"
+      ],
+      "reviewCount": 3865,
+      "Prerequisites": "No coding experience needed",
+      "duration": "4 Months",
+      "level": "beginner",
+      "rating": 94.2354
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd213/nd-card.jpg",
+      "title": "C++",
+      "summary": "Get hands-on experience building five real-world projects in this popular general-purpose programming language.",
+      "skillsCoverd": [
+        "Data Structures",
+        "Algorithms",
+        "Memory Management",
+        "Concurrency",
+        "Object-Oriented Programming",
+        "C++Intermediate Programming"
+      ],
+      "reviewCount": 1127,
+      "Prerequisites": "Intermediate Programming",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 90.9317
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd100/nd-card.jpg",
+      "title": "Business Analytics",
+      "summary": "Gain foundational data skills like analyzing data, modeling business scenarios, and communicating findings.",
+      "skillsCoverd": [
+        "Excel/Spreadsheets",
+        "SQL",
+        "Data Visualization",
+        "Data DashboardsNone"
+      ],
+      "reviewCount": 2657,
+      "Prerequisites": "None",
+      "duration": "3 Months",
+      "level": "beginner",
+      "rating": 95.5213
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd002/nd-card.jpg",
+      "title": "Data Analyst",
+      "summary": "Use Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions.",
+      "skillsCoverd": [
+        "Data Wrangling",
+        "Matplotlib",
+        "Bootstrapping",
+        "Pandas",
+        "NumPy",
+        "Statistics\nPython & SQL"
+      ],
+      "reviewCount": 3497,
+      "Prerequisites": "Python & SQL",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 92.9139
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd104/nd-card.jpg",
+      "title": "Programming for Data Science with Python",
+      "summary": "Learn the fundamental programming tools for data professionals: Python, SQL, terminal, and Git.",
+      "skillsCoverd": ["Python", "Numpy", "Pandas", "SQL", "Git", "GitHubNone"],
+      "reviewCount": 1558,
+      "Prerequisites": "None",
+      "duration": "3 Months",
+      "level": "beginner",
+      "rating": 94.8267
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd089/nd-card.jpg",
+      "title": "AI Programming with Python",
+      "summary": "Learn Python, NumPy, pandas, Matplotlib, PyTorch, calculus, and linear algebra—the foundations for building your own neural network.",
+      "skillsCoverd": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "PyTorchBasic Algebra and Programming Knowledge"
+      ],
+      "reviewCount": 1628,
+      "Prerequisites": "Basic Algebra and Programming Knowledge",
+      "duration": "3 Months",
+      "level": "beginner",
+      "rating": 94.0663
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd036/catalog+image+nd036.jpg",
+      "title": "Product Manager",
+      "summary": "Learn to lead the product strategy of industry-defining products and successfully bring them to market.",
+      "skillsCoverd": [
+        "Product Strategy",
+        "Product Design",
+        "Product Development",
+        "Design Sprint",
+        "Product Launch",
+        "Project Management Frameworks",
+        "Negotiation",
+        "Prioritization",
+        "Cross-Functional CollaborationProduct management basics"
+      ],
+      "reviewCount": 867,
+      "Prerequisites": "Product management basics",
+      "duration": "4 Months",
+      "level": "beginner",
+      "rating": 93.4256
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/75TcxxiEyKbi5v04JY6PTX/4148b4a12c42098f130c523ce37264fc/catalog-card.jpg",
+      "title": "Digital Marketing",
+      "summary": "Meet the growing demand for skilled digital marketers by learning the latest technologies for building impactful marketing strategies.\n",
+      "skillsCoverd": [
+        "Digital Marketing",
+        "Marketing Fundamentals",
+        "Google Analytics",
+        "Social Media Marketing",
+        "Facebook Marketing",
+        "Search Engine Optimization",
+        "Search Engine Marketing",
+        "Digital Marketing Metrics",
+        "Display Ads",
+        "Video Advertising",
+        "Email Marketing",
+        "Branding StrategyNo Experience Required."
+      ],
+      "reviewCount": 2422,
+      "Prerequisites": "No Experience Required.",
+      "duration": "3 Months",
+      "level": "beginner",
+      "rating": 94.1288
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/en-US/AI_for_trading_Background.png",
+      "title": "Artificial Intelligence for Trading",
+      "summary": "Complete real-world projects designed by industry experts, covering topics from asset management to trading signal generation. Master AI algorithms for trading, and build your career-ready portfolio.",
+      "skillsCoverd": [
+        "Momentum Trading Strategy",
+        "Smart Beta",
+        "Alpha Factors",
+        "Natural Language Processing",
+        "Deep Learning",
+        "Neural NetworksPython & Mathematics"
+      ],
+      "reviewCount": 789,
+      "Prerequisites": "Python & Mathematics",
+      "duration": "6 Months",
+      "level": "intermediate",
+      "rating": 92.0659
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd0044/nd-card.jpg",
+      "title": "Full Stack Web Developer",
+      "summary": "Learn to design and develop powerful modern web applications that form the foundation for the apps, websites, and systems that people and businesses use every day.",
+      "skillsCoverd": [
+        "Python",
+        "JavaScript",
+        "PostgreSQL",
+        "Flask",
+        "Docker",
+        "KubernetesPrior experience with Python",
+        "CSS/HTML",
+        "and Git"
+      ],
+      "reviewCount": 752,
+      "Prerequisites": "Prior experience with Python, CSS/HTML, and Git",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 90.7979
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd578/catalog-card.jpg",
+      "title": "UX Designer",
+      "summary": "Design impactful user experiences for products in today’s digital world.",
+      "skillsCoverd": [
+        "User Research",
+        "User Experience",
+        "Prototyping",
+        "Interactive Design",
+        "User Interface Design",
+        "Usability TestingNo Experience Required."
+      ],
+      "reviewCount": 1033,
+      "Prerequisites": "No Experience Required.",
+      "duration": "3 Months",
+      "level": "beginner",
+      "rating": 94.3272
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd025/nd-card.jpg",
+      "title": "Data Scientist",
+      "summary": "Build effective machine learning models, run data pipelines, build recommendation systems, and deploy solutions to the cloud with industry-aligned projects.",
+      "skillsCoverd": [
+        "Machine Learning",
+        "Deep Learning",
+        "Software EngineeringPython",
+        "SQL & Statistics"
+      ],
+      "reviewCount": 1215,
+      "Prerequisites": "Python, SQL & Statistics",
+      "duration": "4 Months",
+      "level": "advanced",
+      "rating": 94.2058
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd0011/nd-card.jpg",
+      "title": "Front End Web Developer",
+      "summary": "Learn how to build high quality websites and dynamic applications to create stunning user experiences for the web.",
+      "skillsCoverd": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Webpack",
+        "Flexbox",
+        "Node",
+        "Object-Oriented ProgrammingKnowledge of basic HTML",
+        "CSS",
+        "and JavaScript"
+      ],
+      "reviewCount": 1196,
+      "Prerequisites": "Knowledge of basic HTML, CSS, and JavaScript",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 92.8763
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/7vsenFxZEguVh1GwD4zXtR/c1193513dd4f28db7405a4c11628c45b/catalog-card-10.jpg",
+      "title": "Machine Learning DevOps Engineer",
+      "summary": "Gain the DevOps skills required to automate the various aspects and stages of building and monitoring machine learning models.",
+      "skillsCoverd": [
+        "API Development",
+        "Automated Model Scoring",
+        "CI/CD",
+        "Model Testing",
+        "Data Version Control",
+        "Machine Learning PipelinesPrior experience with Python and Machine Learning"
+      ],
+      "reviewCount": 117,
+      "Prerequisites": "Prior experience with Python and Machine Learning",
+      "duration": "4 Months",
+      "level": "advanced",
+      "rating": 92.1368
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/3iq8QEHIjr2lUYgmDMgeEX/67bd4529c488820a9672a393dfa2ca39/catalog-card-28.jpg",
+      "title": "Deep Learning",
+      "summary": "Deep learning is driving advances in artificial intelligence that are changing our world—enroll now and learn to build and apply your own deep neural networks.",
+      "skillsCoverd": [
+        "Neural Networks",
+        "Perceptron",
+        "Autoencoders",
+        "Convolutional Neural Networks",
+        "PyTorch",
+        "Object Detection",
+        "Recurrent Neural Networks",
+        "Long-Short Term Memory Networks",
+        "Backpropagation",
+        "Generative Adversarial Networks",
+        "Deep Learning Techniques",
+        "Image Generation",
+        "Hyperparameter TuningIntermediate Python"
+      ],
+      "reviewCount": 3370,
+      "Prerequisites": "Intermediate Python",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 93.092
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/1B0YMCbwyXPPvAtOK2bbtG/ee405a76b8e2ee0903b6c4600647670a/catalog-card-11.jpg",
+      "title": "Self-Driving Car Engineer",
+      "summary": "Learn the techniques that power self-driving cars across the full stack of a vehicle’s autonomous capabilities.",
+      "skillsCoverd": [
+        "Computer Vision",
+        "Deep Learning",
+        "Sensor Fusion",
+        "Localization",
+        "Self-Driving Cars",
+        "Path Planning",
+        "ControlPython",
+        "C++",
+        "Linear Algebra",
+        "and Calculus"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Python, C++, Linear Algebra, and Calculus",
+      "duration": "5 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5gOjBf0OJwC2gIHsmlT20G/7db648c216f61ae1f05d3a64a59baf1a/instructor-pointing-at-computer-screen.jpg",
+      "title": "Android Kotlin Developer",
+      "summary": "Master Android app development with Kotlin, a modern programming language that enables developers to be more productive.",
+      "skillsCoverd": [
+        "Android Development",
+        "Kotlin",
+        "Android Studio",
+        "Gradle",
+        "RESTful Interfaces",
+        "Web APIs",
+        "App Architecture",
+        "Databases",
+        "Custom Views",
+        "Notifications",
+        "Location Services",
+        "Testing",
+        "FirebaseExperience with Object-Oriented Programming"
+      ],
+      "reviewCount": 356,
+      "Prerequisites": "Experience with Object-Oriented Programming",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 93.427
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/3tBJiagciI04YeQ9uJlooR/1781a36fde6858eb923177b4f01e6eab/catalog-card-21.jpg",
+      "title": "React",
+      "summary": "Learn to build declarative user interfaces for the web with React as well as manage state more predictably in your applications with Redux.",
+      "skillsCoverd": [
+        "React Component State",
+        "React Router",
+        "React Hooks",
+        "JavaScript Functions",
+        "Application State Management with Redux",
+        "React-Redux Bindings",
+        "React Component State",
+        "Fetching Data",
+        "React Native Basics",
+        "Data Lifecycle Management",
+        "Jest",
+        "React-Redux Bindings",
+        "React Design Patterns",
+        "Software TestingHTML & CSS",
+        "JavaScript",
+        "Asynchronous JavaScript (AJAX) and Web forms"
+      ],
+      "reviewCount": 1272,
+      "Prerequisites": "HTML & CSS, JavaScript, Asynchronous JavaScript (AJAX) and Web forms",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": 93.066
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd035/nd-card.png",
+      "title": "Java Developer",
+      "summary": "Learn back-end development with Java, one of the most popular programming languages in the world.",
+      "skillsCoverd": [
+        "Java",
+        "Spring Boot",
+        "Rest API",
+        "MySQL",
+        "MongoDBIntermediate knowledge of Java"
+      ],
+      "reviewCount": 362,
+      "Prerequisites": "Intermediate knowledge of Java",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 89.2265
+    },
+    {
+      "id": 21,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd088/nd-card.png",
+      "title": "AI Product Manager",
+      "summary": "Develop AI products that deliver real business value by building skills that help you compete in the new AI-powered world.",
+      "skillsCoverd": [
+        "AI Products",
+        "Training ML Models",
+        "Annotating Datasets",
+        "Prototyping a ProductNo Experience Required"
+      ],
+      "reviewCount": 619,
+      "Prerequisites": "No Experience Required",
+      "duration": "2 Months",
+      "level": "beginner",
+      "rating": 87.0759
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd1309/nd-card.jpg",
+      "title": "Blockchain Developer",
+      "summary": "Demand for blockchain developers is skyrocketing. In this program, you'll work with the Bitcoin and Ethereum protocols, build projects for real-world application, and gain the essential skills for a career in this dynamic space.",
+      "skillsCoverd": [
+        "Ethereum Blockchain",
+        "Blockchain Architecture",
+        "Data AuditingObject-oriented programming"
+      ],
+      "reviewCount": 569,
+      "Prerequisites": "Object-oriented programming",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 89.8067
+    },
+    {
+      "id": 23,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd030/catalog+image+nd030.jpg",
+      "title": "Data Product Manager",
+      "summary": "Apply data science best practices to build products that deliver the right experience to the right users—at the right time.",
+      "skillsCoverd": [
+        "Data Science",
+        "Product Management",
+        "Product Design",
+        "Data Visualization",
+        "User Journey MapsPrior Data Analysis & Product Management Experience Recommended"
+      ],
+      "reviewCount": 221,
+      "Prerequisites": "Prior Data Analysis & Product Management Experience Recommended",
+      "duration": "3 Months",
+      "level": "intermediate",
+      "rating": 86.6968
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd892/nd-card.jpg",
+      "title": "Natural Language Processing",
+      "summary": "Learn the job-ready skills that progress computers to be able to understand, process, and respond to human language.",
+      "skillsCoverd": [
+        "Machine Learning",
+        "Speech Recognition",
+        "Sentiment Analysis",
+        "Machine Translation",
+        "Part of Speech TaggingPython",
+        "Statistics",
+        "Machine Learning",
+        "& Deep Learning"
+      ],
+      "reviewCount": 525,
+      "Prerequisites": "Python, Statistics, Machine Learning, & Deep Learning",
+      "duration": "3 Months",
+      "level": "advanced",
+      "rating": 90.0571
+    },
+    {
+      "id": 25,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/1fjwcY3a2Ywmqdyg4Tchg2/c2a4bc64da3c1f946dd98da8df936fbe/catalog-card-25.jpg",
+      "title": "Data Engineering with Microsoft Azure ",
+      "summary": "Master job-ready Azure skills like designing data models and utilizing other in-demand components of the cloud computing service.",
+      "skillsCoverd": [
+        "Database Normalization",
+        "Data Modeling Basics",
+        "PostgreSQL",
+        "SQL",
+        "SQL Scripting",
+        "Denormalized Data Schemas",
+        "Relational Data Modeling",
+        "OLAP Cubes",
+        "Data Warehouse Architecture",
+        "Data Extraction",
+        "Big Data Fluency",
+        "Apache Spark",
+        "Data Lakes",
+        "Apache Airflow",
+        "Azure PipelinesExperience with SQL",
+        "Python",
+        "Azure",
+        "and Github"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Experience with SQL, Python, Azure, and Github",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 26,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd9991/nd-card.jpg",
+      "title": "Cloud DevOps Engineer",
+      "summary": "Companies are looking for talented DevOps engineers to remain competitive in this agile world. Enroll now to master skills like operationalizing infrastructure at scale and delivering applications and services at high velocity.",
+      "skillsCoverd": [
+        "AWS",
+        "Configuration Management with Ansible",
+        "Continuous Integration/Continuous Deployment",
+        "Microservices with Kubernetes",
+        "CloudFormationIntermediate JavaScript"
+      ],
+      "reviewCount": 847,
+      "Prerequisites": "Intermediate JavaScript",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 92.2786
+    },
+    {
+      "id": 27,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd893/nd-card.jpg",
+      "title": "Deep Reinforcement Learning",
+      "summary": "Master the deep reinforcement learning skills that are powering amazing advances in AI—and start applying these skills to applications like video games and robotics.",
+      "skillsCoverd": [
+        "Reinforcement Learning",
+        "Neural Networks",
+        "PyTorch",
+        "Deep Q-Networks (DQN)",
+        "Deep Deterministic Policy Gradients (DDPG)Experience with Python",
+        "Probability",
+        "Machine Learning",
+        "& Deep Learning."
+      ],
+      "reviewCount": 535,
+      "Prerequisites": "Experience with Python, Probability, Machine Learning, & Deep Learning.",
+      "duration": "3 Months",
+      "level": "advanced",
+      "rating": 92.8224
+    },
+    {
+      "id": 28,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd891/nd-card.jpg",
+      "title": "Computer Vision",
+      "summary": "Learn the in-demand skills of computer vision, a growing field of AI, that empower advancements in robotics and automation.",
+      "skillsCoverd": [
+        "Convolutional Neural Networks",
+        "Recurrent Neural Networks",
+        "Simultaneous Localization and Mapping",
+        "Object Tracking",
+        "Image Classification",
+        "Deep LearningPython",
+        "Statistics",
+        "Machine Learning",
+        "& Deep Learning"
+      ],
+      "reviewCount": 799,
+      "Prerequisites": "Python, Statistics, Machine Learning, & Deep Learning",
+      "duration": "3 Months",
+      "level": "advanced",
+      "rating": 93.0163
+    },
+    {
+      "id": 29,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/57CBhUHtTbT21Fz6kBUCJ9/d98ee0a1bb9fadf93078d07543a1300a/man-with-tablet-catalog-card.jpg",
+      "title": "Data Architect",
+      "summary": "Learn how to plan, design and implement enterprise data infrastructure solutions and create the blueprints for your organization’s data success.",
+      "skillsCoverd": [
+        "Entity Relationship Diagrams",
+        "Relational Data Design",
+        "Online Analytical Processing",
+        "Operational Data Stores",
+        "Data Lake Architecture",
+        "Data GovernanceIntermediate Python",
+        "SQL",
+        "and Basics of ETL/Data Pipelines"
+      ],
+      "reviewCount": 122,
+      "Prerequisites": "Intermediate Python, SQL, and Basics of ETL/Data Pipelines",
+      "duration": "4 Months",
+      "level": "advanced",
+      "rating": 91.1475
+    },
+    {
+      "id": 30,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/2UhQyfps3lPG6s5VapdnkO/ce4eabfb7c084b7d577c9e2e84d2b841/catalog-140x120.jpg",
+      "title": "Intermediate Python",
+      "summary": "Learn how to plan, design, and implement enterprise data infrastructure solutions and create the blueprints for your organization’s data success.",
+      "skillsCoverd": [
+        "Python",
+        "Object-Oriented Programming",
+        "Modular code",
+        "Python Package IndexBasic Python"
+      ],
+      "reviewCount": 145,
+      "Prerequisites": "Basic Python",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": 88.6897
+    },
+    {
+      "id": 31,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/4zCg1RJUx9ebzhPWtdCj8u/0ee84b7ec01fda6636a184ff2d56e7a3/catalog-card-17.jpg",
+      "title": "AWS Machine Learning Engineer",
+      "summary": "Learn the data science and machine learning skills required to build and deploy machine learning models in production using Amazon SageMaker.",
+      "skillsCoverd": [
+        "Feature Engineering",
+        "Machine Learning Fluency",
+        "Data Loading with SageMaker",
+        "Amazon S3",
+        "Neural Network Basics",
+        "Deep Learning Fluency",
+        "Hyperparameter Tuning",
+        "Machine Learning Framework Fundamentals",
+        "SageMaker JumpStart",
+        "Cloud Resource Allocation",
+        "Distributed Model Training with SageMaker",
+        "AWS Lambda Basic knowledge of machine learning algorithms and Python programming"
+      ],
+      "reviewCount": 147,
+      "Prerequisites": "Basic knowledge of machine learning algorithms and Python programming",
+      "duration": "5 Months",
+      "level": "intermediate",
+      "rating": 94.0136
+    },
+    {
+      "id": 32,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd209/nd209_Robo_v2_card_image.png",
+      "title": "Robotics Software Engineer",
+      "summary": "Build five hands-on projects to acquire core robotics software engineering skills: ROS, Gazebo, localization, mapping, SLAM, navigation, and path planning.",
+      "skillsCoverd": [
+        "C++",
+        "ROS",
+        "Localization",
+        "Mapping",
+        "SLAM",
+        "Navigation",
+        "Path Planning",
+        "Robot Operating System",
+        "RoboticsMathematics & Programming"
+      ],
+      "reviewCount": 571,
+      "Prerequisites": "Mathematics & Programming",
+      "duration": "4 Months",
+      "level": "advanced",
+      "rating": 90.9982
+    },
+    {
+      "id": 33,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd072/catalog+image+nd072.jpg",
+      "title": "SQL",
+      "summary": "Master SQL, the core language for big data analysis, to enable insight-driven decision-making and strategy.",
+      "skillsCoverd": [
+        "SQL",
+        "PostgreSQL",
+        "JOINs",
+        "Subqueries",
+        "Window Functions",
+        "Partitions",
+        "Data Cleaning",
+        "DDL",
+        "DML",
+        "Relational and Non-Relational DatabasesBasic understanding of data types"
+      ],
+      "reviewCount": 340,
+      "Prerequisites": "Basic understanding of data types",
+      "duration": "2 Months",
+      "level": "beginner",
+      "rating": 92.7059
+    },
+    {
+      "id": 34,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/6zlIQnEmoOGUINUlGdqxog/66e27c4847426acca10fb1a04abb66da/catalog-card-6.jpg",
+      "title": "Data Analysis and Visualization with Microsoft Power BI",
+      "summary": "Utilize Microsoft Power BI as a primary tool for data pre-processing, visualization, and analysis.",
+      "skillsCoverd": [
+        "Power BI",
+        "Data Visualizations",
+        "Data Modeling",
+        "Extract-Transform-Load",
+        "Data Analytics ExpressionsMicrosoft Excel"
+      ],
+      "reviewCount": 259,
+      "Prerequisites": "Microsoft Excel",
+      "duration": "3 Months",
+      "level": "beginner",
+      "rating": 94.0541
+    },
+    {
+      "id": 35,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd003/nd-card.jpg",
+      "title": "iOS Developer",
+      "summary": "Master the Swift programming language, and create a portfolio of iOS apps for iPhone and iPad to showcase your skills!",
+      "skillsCoverd": [
+        "Swift Programming",
+        "Core Data",
+        "UIKit",
+        "iOS Networking",
+        "App Publishing",
+        "User Interfaces",
+        "Local Persistence",
+        "APIsNo prior knowledge required"
+      ],
+      "reviewCount": 899,
+      "Prerequisites": "No prior knowledge required",
+      "duration": "6 Months",
+      "level": "beginner",
+      "rating": 91.9689
+    },
+    {
+      "id": 36,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd054/catalog+image+nd054.jpg",
+      "title": "AI for Business Leaders",
+      "summary": "Master the foundations of artificial intelligence so you can strategically implement machine learning technology in your organization, and leverage it for corporate growth.",
+      "skillsCoverd": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Business Strategy",
+        "Data Labeling",
+        "Data ModelingStatistics",
+        "Probability",
+        "and Business Experience"
+      ],
+      "reviewCount": 128,
+      "Prerequisites": "Statistics, Probability, and Business Experience",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": 92.0312
+    },
+    {
+      "id": 37,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/4CYYU5JsG3ILJfC87lDPs7/243a3c86237ace14d88e31bb5e095e29/catalog-card-2.jpg",
+      "title": "Java Programming",
+      "summary": "Elevate your Java abilities with the fundamental skills used by developers to design, code, test, and deploy cutting-edge Java software.",
+      "skillsCoverd": [
+        "Object-Oriented Programming",
+        "Functional Programming",
+        "I/O",
+        "Reflection",
+        "Concurrent Programming",
+        "Java ModulesBasic programming concepts like variables",
+        "loops and conditionals."
+      ],
+      "reviewCount": 143,
+      "Prerequisites": "Basic programming concepts like variables, loops and conditionals.",
+      "duration": "3 Months",
+      "level": "intermediate",
+      "rating": 90.9091
+    },
+    {
+      "id": 38,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd144/nd144-catalog-card.jpg",
+      "title": "Agile Software Development",
+      "summary": "Get equipped with the skills you need to guide the delivery of high value products with top notch software development teams.\n",
+      "skillsCoverd": [
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "XP",
+        "Minimum Viable ProductNo Experience Required"
+      ],
+      "reviewCount": 152,
+      "Prerequisites": "No Experience Required",
+      "duration": "3 Months",
+      "level": "beginner",
+      "rating": 94.2105
+    },
+    {
+      "id": 39,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd256/nd-card.jpg",
+      "title": "Data Structures and Algorithms",
+      "summary": "Get hands-on practice with over 100 data structures and algorithm exercises with technical mentor support when needed to help prepare you for the workplace.",
+      "skillsCoverd": [
+        "Data Structures and Algorithms",
+        "Problem Solving",
+        "Interview Practice Problems",
+        "PythonPython and Basic Algebra"
+      ],
+      "reviewCount": 850,
+      "Prerequisites": "Python and Basic Algebra",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 93.4824
+    },
+    {
+      "id": 40,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd313/nd-card.png",
+      "title": "Sensor Fusion Engineer",
+      "summary": "Learn to fuse lidar point clouds, radar signatures, and camera images using Kalman Filters to detect and track vehicles and pedestrians over time.",
+      "skillsCoverd": [
+        "Perception",
+        "Lidar",
+        "Radar",
+        "Sensors",
+        "Computer VisionIntermediate C++",
+        "Calculus",
+        "and Probability"
+      ],
+      "reviewCount": 301,
+      "Prerequisites": "Intermediate C++, Calculus, and Probability",
+      "duration": "4 Months",
+      "level": "advanced",
+      "rating": 94.8173
+    },
+    {
+      "id": 41,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/2BmR32DkIbZ5HUVFLZUcj5/dd4caf36b7b56024dc13c3c718dcc5d5/catalog-card-5.jpg",
+      "title": "Full Stack JavaScript Developer",
+      "summary": "Find success as a full stack developer by focusing on topics like UI, UX, APIs, server side business logic, persistence layers, and more.",
+      "skillsCoverd": [
+        "Creating an API",
+        "Databases and SQL",
+        "Node.js",
+        "Angular",
+        "TypeScript",
+        "DeploymentHTML",
+        "CSS",
+        "Basic JavaScript",
+        "JSON"
+      ],
+      "reviewCount": 89,
+      "Prerequisites": "HTML, CSS, Basic JavaScript, JSON",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 93.7079
+    },
+    {
+      "id": 42,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/2K7F3sZGMIBSQyHuc2fbfj/8368f9164bdc1140f4727e57a3fef782/class-intro-cybersecurity-2x.jpg",
+      "title": "Introduction to Cybersecurity",
+      "summary": "Get your start in the high growth field of cybersecurity by building foundational skills including evaluating, maintaining, and monitoring the security of computer systems.",
+      "skillsCoverd": [
+        "Threat Assessment",
+        "Security Vulnerabilities",
+        "Compliance",
+        "Governance",
+        "Risk",
+        "Incident ResponseBasic knowledge of network connectivity and OS fundamentals"
+      ],
+      "reviewCount": 165,
+      "Prerequisites": "Basic knowledge of network connectivity and OS fundamentals",
+      "duration": "4 Months",
+      "level": "beginner",
+      "rating": 90.5455
+    },
+    {
+      "id": 43,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/3GhXrZk7J81BTX0hWotSVs/476937f0d67566feb2d332022eb20225/catalog-card-15.jpg",
+      "title": "Growth Product Manager",
+      "summary": "Lead experimentation and data-driven decision-making to drive products to the next level of scale, impact, and profitability.",
+      "skillsCoverd": [
+        "Acquisition Strategy",
+        "Growth Loops",
+        "Product Management",
+        "Activation Metrics",
+        "Growth Strategy",
+        "Activation Strategy",
+        "Product Monetization Strategy",
+        "Product Monetization Metrics",
+        "Premium Value",
+        "Cohort Analysis",
+        "Experiment Design",
+        "Target Personas",
+        "Customer Acquisition Cost",
+        "User Journey MapsPrior Product Management Experience recommended"
+      ],
+      "reviewCount": 50,
+      "Prerequisites": "Prior Product Management Experience recommended",
+      "duration": "3 Months",
+      "level": "intermediate",
+      "rating": 89.6
+    },
+    {
+      "id": 44,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd028/nd_card.jpg",
+      "title": "Marketing Analytics",
+      "summary": "Learn to collect and analyze data, model marketing scenarios, and communicate your findings with Excel, Tableau, Google Analytics, and Data Studios.",
+      "skillsCoverd": [
+        "Google Analytics",
+        "Excel/Spreadsheets",
+        "Data Visualization",
+        "Customer SegmentationNo Prerequisites"
+      ],
+      "reviewCount": 360,
+      "Prerequisites": "No Prerequisites",
+      "duration": "3 Months",
+      "level": "beginner",
+      "rating": 92.8333
+    },
+    {
+      "id": 45,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/7aHIzGHbkX64iwu17Popy1/bfbffa948e5093fbdd171567d00d2c64/catalog-card-24.jpg",
+      "title": "Digital Project Management",
+      "summary": "Build confidence translating business requirements into project scope statements, creating project plans, and developing a high-performing team.\n",
+      "skillsCoverd": [
+        "Waterfall Project Management",
+        "Strategic Communication Plans",
+        "Requirements Gathering",
+        "Project Scoping",
+        "Project Execution",
+        "Gantt Charts",
+        "Agile Frameworks",
+        "Stakeholder Analysis",
+        "SMART Goals",
+        "Team Development",
+        "Cost-Benefit Analysis\nProfessional fluency in English"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Professional fluency in English",
+      "duration": "1 Month",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 46,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/3CxJ3P449VAaphxDapsvGr/47919e598821354e1d2cc2c65041ec6a/catalog-card-8.jpg",
+      "title": "Cloud Native Application Architecture",
+      "summary": "Learn to run and manage scalable applications in a cloud native environment using open source tools and projects like ArgoCD, gRPC, and Grafana.",
+      "skillsCoverd": [
+        "Microservice Architecture",
+        "Kubernetes",
+        "Continuous Integration",
+        "Continuous Delivery",
+        "Message Passing",
+        "Observability",
+        "Microservices SecurityHTTP",
+        "Python",
+        "Git",
+        "Linux",
+        "Docker"
+      ],
+      "reviewCount": 152,
+      "Prerequisites": "HTTP, Python, Git, Linux, Docker",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 94.8684
+    },
+    {
+      "id": 47,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd9990/nd-card.jpg",
+      "title": "Cloud Developer",
+      "summary": "Cloud development is the foundation for the new world of software development. Enroll now to build and deploy production-ready full stack apps at scale on AWS.",
+      "skillsCoverd": [
+        "AWS",
+        "Microservices",
+        "Serverless Architecture",
+        "KubernetesIntermediate JavaScript"
+      ],
+      "reviewCount": 847,
+      "Prerequisites": "Intermediate JavaScript",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 89.7048
+    },
+    {
+      "id": 48,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd229/nd-card.jpg",
+      "title": "Intro to Machine Learning with PyTorch",
+      "summary": "Build a solid foundation in supervised, unsupervised, and deep learning. Then, use these skills to test and deploy machine learning models in a production environment.",
+      "skillsCoverd": [
+        "Introduction to Machine Learning",
+        "Supervised Learning",
+        "Deep Learning",
+        "Unsupervised LearningIntermediate Python"
+      ],
+      "reviewCount": 447,
+      "Prerequisites": "Intermediate Python",
+      "duration": "3 Months",
+      "level": "intermediate",
+      "rating": 94.094
+    },
+    {
+      "id": 49,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd898/nd-card.jpg",
+      "title": "Artificial Intelligence",
+      "summary": "Learn essential Artificial Intelligence concepts from AI experts like Peter Norvig and Sebastian Thrun, including search, optimization, planning, pattern recognition, and more.",
+      "skillsCoverd": [
+        "Constraint Propagation",
+        "AI Algorithms",
+        "Constraint Satisfaction Problems",
+        "Backtracking Search",
+        "Optimization Algorithms",
+        "Search Algorithms",
+        "Minimax Search",
+        "Bayesian Networks",
+        "Planning",
+        "Pattern Recognition",
+        "Time-Series Analysis with MLAlgebra",
+        "Calculus",
+        "Statistics",
+        "& Python"
+      ],
+      "reviewCount": 355,
+      "Prerequisites": "Algebra, Calculus, Statistics, & Python",
+      "duration": "3 Months",
+      "level": "advanced",
+      "rating": 90.5915
+    },
+    {
+      "id": 50,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/cloud-network.jpg",
+      "title": "Cloud DevOps using Microsoft Azure",
+      "summary": "Learn how to deploy, test, and monitor cloud applications on Azure, one of the most popular cloud services platforms across the globe.",
+      "skillsCoverd": [
+        "Infrastructure as Code",
+        "Configuration Management",
+        "Agile Planning",
+        "Continuous Integration",
+        "Continuous Delivery",
+        "Test Automation",
+        "MonitoringIntermediate Python",
+        "familiarity with Linux shell scripting and cloud concepts"
+      ],
+      "reviewCount": 107,
+      "Prerequisites": "Intermediate Python, familiarity with Linux shell scripting and cloud concepts",
+      "duration": "3 Months",
+      "level": "intermediate",
+      "rating": 85.4206
+    },
+    {
+      "id": 51,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd008/nd-card.jpg",
+      "title": "Predictive Analytics For Business",
+      "summary": "Learn essential AI concepts including search, optimization, planning, pattern recognition, and more from experts like Peter Norvig and Sebastian Thrun.",
+      "skillsCoverd": [
+        "Data Wrangling",
+        "Classification",
+        "A/B Testing",
+        "Forecasting",
+        "SegmentationAlgebra",
+        "Descriptive Statistics",
+        "and Excel"
+      ],
+      "reviewCount": 555,
+      "Prerequisites": "Algebra, Descriptive Statistics, and Excel",
+      "duration": "3 Months",
+      "level": "beginner",
+      "rating": 94.0901
+    },
+    {
+      "id": 52,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd113/nd-card.jpg",
+      "title": "Intro to Self-Driving Cars",
+      "summary": "This introductory program is the perfect way to start your journey into the future of transportation—flying cars.",
+      "skillsCoverd": [
+        "Computer Vision",
+        "Machine Learning",
+        "Vehicle Motion",
+        "ControlProgramming & Mathematics"
+      ],
+      "reviewCount": 806,
+      "Prerequisites": "Programming & Mathematics",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 92.9032
+    },
+    {
+      "id": 53,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/nd081-catalog-card.jpg",
+      "title": "Cloud Developer using Microsoft Azure",
+      "summary": "Master critical cloud computing skills used to deploy, build, migrate, and monitor applications on Azure.",
+      "skillsCoverd": [
+        "Virtual Machines",
+        "App Services",
+        "Microservices",
+        "Serverless Functions",
+        "Cloud MigrationIntermediate programming experience",
+        "familiarity with SQL databases and Git"
+      ],
+      "reviewCount": 66,
+      "Prerequisites": "Intermediate programming experience, familiarity with SQL databases and Git",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 88.1818
+    },
+    {
+      "id": 54,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd229/nd-card.jpg",
+      "title": "Intro to Machine Learning with TensorFlow",
+      "summary": "Build a solid foundation in supervised, unsupervised, and deep learning. Then, use these skills to test and deploy machine learning models in a production environment.",
+      "skillsCoverd": [
+        "TensorFlow",
+        "Deep Learning",
+        "scikit-learn",
+        "Supervised Learning",
+        "Unsupervised LearningIntermediate Python"
+      ],
+      "reviewCount": 529,
+      "Prerequisites": "Intermediate Python",
+      "duration": "3 Months",
+      "level": "intermediate",
+      "rating": 94.1021
+    },
+    {
+      "id": 55,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd029/nd-card.jpg",
+      "title": "Data Streaming",
+      "summary": "Learn how to stream data to unlock key insights in real-time.",
+      "skillsCoverd": [
+        "Data Streaming",
+        "Spark",
+        "Kafka",
+        "Kafka Streaming",
+        "Spark StreamingIntermediate Python",
+        "SQL",
+        "and experience with ETL"
+      ],
+      "reviewCount": 245,
+      "Prerequisites": "Intermediate Python, SQL, and experience with ETL",
+      "duration": "2 Months",
+      "level": "advanced",
+      "rating": 85.7143
+    },
+    {
+      "id": 56,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd320/catalog+card+nd320.jpg",
+      "title": "AI for Healthcare",
+      "summary": "Be at the forefront of the AI revolution in healthcare and transform patient outcomes by enabling enhanced medical decision-making powered by machine learning.",
+      "skillsCoverd": [
+        "Artificial Intelligence",
+        "2D Medical Imaging",
+        "3D Medical Imaging",
+        "Electronic Health Record Data",
+        "Deep Learning",
+        "Wearable Device Data",
+        "Supervised LearningIntermediate Python",
+        "and Experience with Machine Learning"
+      ],
+      "reviewCount": 145,
+      "Prerequisites": "Intermediate Python, and Experience with Machine Learning",
+      "duration": "4 Months",
+      "level": "advanced",
+      "rating": 92.1379
+    },
+    {
+      "id": 57,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/nd045-catalog-card.jpg",
+      "title": "Data Science for Business Leaders",
+      "summary": "Master the people, platforms, and processes required to leverage the power of Data Science in your business.",
+      "skillsCoverd": [
+        "Business Strategy",
+        "Data Science",
+        "Data Architecture",
+        "Machine Learning",
+        "Human CapitalStatistics",
+        "Probability",
+        "and Business Experience"
+      ],
+      "reviewCount": 85,
+      "Prerequisites": "Statistics, Probability, and Business Experience",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": 88.7059
+    },
+    {
+      "id": 58,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd063/catalog+image+nd063.jpg",
+      "title": "AWS Cloud Architect",
+      "summary": "Build confidence planning, designing, and creating high availability cloud infrastructure.",
+      "skillsCoverd": [
+        "Cloud Infrastructure",
+        "Cloud Security",
+        "AWS",
+        "CloudFormation",
+        "High Availability Infrastructure",
+        "Serverless ComputingExperience with Cloud Computing",
+        "Programming",
+        "and AWS"
+      ],
+      "reviewCount": 279,
+      "Prerequisites": "Experience with Cloud Computing, Programming, and AWS",
+      "duration": "3 Months",
+      "level": "advanced",
+      "rating": 92.2581
+    },
+    {
+      "id": 59,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/1SRl17BsGqwggKZ59bIdlc/ff5233adf44021a8a253d72601acf424/catalog-card_1x.png",
+      "title": "Golang",
+      "summary": "Discover Golang’s implementation of traditional programming features, as well as extra features that make it a powerful tool.",
+      "skillsCoverd": [
+        "Go Programming",
+        "Go Language Fundamentals",
+        "Go Environment",
+        "Basic Backend",
+        "Goroutines",
+        "Web Server",
+        "REST API"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Go Programming,  Go Language Fundamentals,  Go Environment,  Basic Backend,  Goroutines,  Web Server,  REST API",
+      "duration": "1 Month",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 60,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd00333/nd00333-catalog-card.jpg",
+      "title": "Machine Learning Engineer for Microsoft Azure",
+      "summary": "Strengthen your machine learning skills and build practical experience by training, validating, and evaluating models using Azure Machine Learning. ",
+      "skillsCoverd": [
+        "Azure Machine Learning",
+        "Azure Machine Learning SDK",
+        "Automation with Pipelines",
+        "Automated ML",
+        "Machine Learning Operations\nPrior experience with Python",
+        "Machine Learning",
+        "and Statistics"
+      ],
+      "reviewCount": 201,
+      "Prerequisites": "Prior experience with Python, Machine Learning, and Statistics",
+      "duration": "3 Months",
+      "level": "intermediate",
+      "rating": 88.7562
+    },
+    {
+      "id": 61,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5fNGwsIZvA6UD7bYtvHiN2/86703f692bd5af5599cbfadedd287c89/class-security-engineer-2x.jpg",
+      "title": "Security Engineer",
+      "summary": "Take advantage of the growing need for skilled security professionals by mastering the sought-after skills to protect an organization’s computer networks and systems from security threats or attacks.",
+      "skillsCoverd": [
+        "Cryptography",
+        "Risk Evaluation",
+        "Authentication",
+        "Authorization",
+        "Access\nManagement",
+        "Penetration TestingBasics of Python",
+        "experience configuring AWS and Linux environments"
+      ],
+      "reviewCount": 57,
+      "Prerequisites": "Basics of Python, experience configuring AWS and Linux environments",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": 94.7368
+    },
+    {
+      "id": 62,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5zj1u0n0BBtouWd9WA6Hvw/02f0595830f5999a6a81f4bf721f8983/catalog-card-20.jpg",
+      "title": "Site Reliability Engineer",
+      "summary": "Learn to build automation tools that ensure designed solutions respond to requirements such as availability, performance, security, and maintainability.",
+      "skillsCoverd": [
+        "Cost-Benefit Analysis",
+        "Building SRE Teams",
+        "Observability Best Practices",
+        "Prometheus",
+        "Grafana",
+        "Service Level Indicators",
+        "Terraform",
+        "Geo-Replication",
+        "Self-Healing System Design",
+        "Microservice Design",
+        "Deployment Rollback",
+        "Deployment Automation",
+        "Cloud Automation",
+        "Deployment Automation",
+        "Incident Post-Mortems",
+        "Incident Management",
+        "Reliability Reviews",
+        "Capacity ManagementPython or Java",
+        "Bash or Powershell",
+        "Linux",
+        "UNIX Shell and SQL"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Python or Java, Bash or Powershell, Linux, UNIX Shell and SQL",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 63,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd787/nd-card.jpg",
+      "title": "Flying Car and Autonomous Flight Engineer",
+      "summary": "Master job-ready autonomous flight software engineering skills as you tackle advanced challenges, write real code for real aircraft, and develop a systems understanding of the Flying Car full-stack.",
+      "skillsCoverd": [
+        "3D Motion Planning",
+        "Controls",
+        "Estimation",
+        "Kalman FiltersMathematics & Programming"
+      ],
+      "reviewCount": 254,
+      "Prerequisites": "Mathematics & Programming",
+      "duration": "6 Months",
+      "level": "advanced",
+      "rating": 91.5748
+    },
+    {
+      "id": 64,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd197/nd-card.png",
+      "title": "Data Visualization",
+      "summary": "Combine data, visuals, and narrative to tell impactful stories and make data-driven decisions.",
+      "skillsCoverd": [
+        "Data Visualization",
+        "Tableau",
+        "Dashboards",
+        "Data StorytellingBasic Data Analysis"
+      ],
+      "reviewCount": 206,
+      "Prerequisites": "Basic Data Analysis",
+      "duration": "4 Months",
+      "level": "beginner",
+      "rating": 92.5243
+    },
+    {
+      "id": 65,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd032/catalog+image+nd032.jpg",
+      "title": "Intermediate JavaScript",
+      "summary": "Master JavaScript, the most popular programming language in the world. Be equipped for advanced roles in web development, server-side application development, and desktop development.",
+      "skillsCoverd": [
+        "Functional Programming",
+        "DOM",
+        "Data Structures",
+        "Asynchronous Programming",
+        "Synchronous ProgrammingBasic JavaScript"
+      ],
+      "reviewCount": 161,
+      "Prerequisites": "Basic JavaScript",
+      "duration": "3 Months",
+      "level": "intermediate",
+      "rating": 89.1925
+    },
+    {
+      "id": 66,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-image-nd340.jpg",
+      "title": "RPA Developer with UiPath",
+      "summary": "Build the operational processes that enable the businesses of the future.",
+      "skillsCoverd": [
+        "Process Automation",
+        "Business Operations",
+        "UiPath Studio",
+        "UiPath OrchestratorBasic familiarity with Microsoft applications and data manipulation"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Basic familiarity with Microsoft applications and data manipulation",
+      "duration": "4 Months",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 67,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5gPIXxuzpCo816ggPRxvd2/6168722ef2139b7f1c7c016d08165d0d/catalog-card-18.jpg",
+      "title": "Privacy Engineer",
+      "summary": "Master the skills necessary to become a successful privacy engineer. Learn to create technical solutions and implement privacy principles by integrating Privacy-by-Design into product development, data infrastructure, and software release lifecycles.",
+      "skillsCoverd": [
+        "Privacy by Design Framework",
+        "Data Minimization",
+        "Data Encryption",
+        "Sensitive Data Tracking",
+        "Hashing",
+        "Privacy Risk Assessment",
+        "Data Privacy Fundamentals",
+        "Data Anonymization",
+        "k-anonymization",
+        "Data Privacy Regulations",
+        "Tiers of Deletion",
+        "Redaction for Data Minimization",
+        "Regional Privacy Regulations",
+        "Data Lifecycle ManagementPython and SQL"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Python and SQL",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 68,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/6QzTaGe8JQPCerSe7Ak0mS/5594d616167881854e522fe7b7ec07c8/catalog-card-16.jpg",
+      "title": "Cloud Architect using Microsoft Azure",
+      "summary": "Meet the growing demand for Azure cloud architects and learn the skills to translate business requirements into technical specifications for reliable, scalable, and secure cloud infrastructure using Microsoft Azure.",
+      "skillsCoverd": [
+        "Azure Security Center",
+        "Azure Resource Manager",
+        "Azure Pricing Calculator",
+        "Azure Key Vault",
+        "Azure Defender",
+        "Cloud Cost Policies",
+        "Cloud Cost Evaluation",
+        "Automated Cloud Cost Optimization",
+        "Privileged Identity Management",
+        "Identity and Access Management Fundamentals",
+        "Disaster Recovery PlansExperience with cloud computing",
+        "programming",
+        "and Microsoft Azure"
+      ],
+      "reviewCount": 94,
+      "Prerequisites": "Experience with cloud computing, programming, and Microsoft Azure",
+      "duration": "3 Months",
+      "level": "advanced",
+      "rating": 95.1064
+    },
+    {
+      "id": 69,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/ypVRWKWZrBVAcMHpImAlE/85d792aa2d7029de93dac8e7f218fcd0/class-ethical-hacker-2x.jpg",
+      "title": "Ethical Hacker",
+      "summary": "Learn how to find and exploit vulnerabilities, design and execute penetration testing plans, and report on test findings.",
+      "skillsCoverd": [
+        "Vulnerability Management",
+        "Penetration Testing",
+        "Reconnaissance",
+        "Social Engineering",
+        "Open-Source Intelligence",
+        "System and Application AuditingLinux",
+        "Networking",
+        "Programming",
+        "and Window OS"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Linux, Networking, Programming, and Window OS",
+      "duration": "2 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 70,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/6IIUwmXtznUr9zz2Iy9cBh/9dcdd2b93d2655f9373d400e2e8da3c7/catalog-card-7.jpg",
+      "title": "Cloud Computing for Business Leaders",
+      "summary": "Focus on the unique knowledge and skills that business leaders need to unlock the value of cloud technologies in their organizations.",
+      "skillsCoverd": [
+        "Digital Transformation",
+        "Leadership",
+        "Management",
+        "Cloud Governance Model",
+        "Novel Cloud Services",
+        "Operational Efficiencies",
+        "Cloud Center of ExcellenceWord Processors",
+        "Spreadsheets",
+        "Presentation Tools"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Word Processors, Spreadsheets, Presentation Tools",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 71,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/3U3CiG1FnKGer0emHpwh1N/00ce8f98e0c65bc0f12f304a07373fb5/catalog-card-13.jpg",
+      "title": "Digital Freelancer",
+      "summary": "The goal of the Digital Freelancer Nanodegree program is to prepare students to enter the digital marketplace by teaching key skills to create a successful digital business. Students will learn freelancing basics and essential skills as well as how to build their personal brand to start a successful online business in the global freelancing marketplace.",
+      "skillsCoverd": [
+        "Portfolio Websites",
+        "Professional Networking",
+        "Resumes",
+        "Social Media Presence",
+        "Non-Disclosure Agreements",
+        "Service Agreements",
+        "Freelance Pricing Frameworks",
+        "Invoicing",
+        "Brand Design",
+        "Elevator Pitches",
+        "Formal Written Communication",
+        "Project Management tools",
+        "Project ScopingBasic computer skills"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Basic computer skills",
+      "duration": "1 Month",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 72,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5gQqNSHiFbICrJHhibYW0r/87fe3c7bcc54d8ecbcc6cb4f47d1b3a5/class-security-analyst-2x.jpg",
+      "title": "Security Analyst",
+      "summary": "Learn to identify, correct, and respond to security weaknesses and incidents through open-ended projects that mimic workplace security challenges.",
+      "skillsCoverd": [
+        "Security Controls",
+        "Defensible Network Architecture",
+        "Security Threat Mitigation",
+        "Threat Modeling",
+        "Vulnerability Assessment",
+        "Incident Detection and HandlingExperience with Python",
+        "SQL",
+        "and security fundamentals"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Experience with Python, SQL, and security fundamentals",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 73,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5yiVQAGJM2TEnSddrFZi4O/40bce8a9a26a5aa9d58b337a53bed43c/catalog-card-19.jpg",
+      "title": "AI Engineer using Microsoft Azure",
+      "summary": "Master the skills necessary to implement machine learning models, build end-to-end AI solutions, and manage continuous improvement of an Azure AI solution.",
+      "skillsCoverd": [
+        "Object Detection",
+        "Image Classification",
+        "Form Recognition",
+        "Facial Recognition",
+        "Face Detection",
+        "Azure Cognitive Services",
+        "Microsoft Bot Framework",
+        "Azure Conversational AI Agents",
+        "Architecture Diagramming",
+        "Requirements Gathering",
+        "Intent Recognition",
+        "Key Phrase Extraction",
+        "Azure Form Recognizer",
+        "Bounding BoxesPython",
+        "Microsoft Azure",
+        "JSON and REST programming semantics"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Python, Microsoft Azure, JSON and REST programming semantics",
+      "duration": "3 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 74,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/1VcOmqhXTTTeEaur3Uu1j5/4157ffe40a5101b857f90f70445b8ef5/catalog-card-12.jpg",
+      "title": "Security Architect",
+      "summary": "The goal of this program is to equip learners with the necessary skills to implement elements of security infrastructure design and management at an enterprise level.",
+      "skillsCoverd": [
+        "Threat Modeling",
+        "DiD Framework",
+        "Cybersecurity Risk Management",
+        "Incident Response Playbooks",
+        "Network Security Fundamentals",
+        "Architecture Diagramming",
+        "Access Control MatricesLinux and AWS"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Linux and AWS",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 75,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/2vVACW4KN2UBHM5P5zfFUt/4c914fcd2e2aa03278edea41ba8f0c75/catalog-card-22.jpg",
+      "title": "Data Privacy",
+      "summary": "Equip yourself with industry-guided data privacy best practices for physical or virtual office environments.",
+      "skillsCoverd": [
+        "Privacy Impact Assessments",
+        "Data Privacy Fundamentals",
+        "Data privacy classification",
+        "Data Privacy Governance",
+        "Data Privacy Checklists",
+        "Data Privacy Best Practices",
+        "Data Loss Prevention",
+        "Technical Cybersecurity Controls",
+        "Procedural Cybersecurity Controls",
+        "Cybersecurity Controls",
+        "NIST Cybersecurity Framework",
+        "Data Privacy Regulations"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Privacy Impact Assessments,  Data Privacy Fundamentals,  Data privacy classification,  Data Privacy Governance,  Data Privacy Checklists,  Data Privacy Best Practices,  Data Loss Prevention,  Technical Cybersecurity Controls,  Procedural Cybersecurity Controls,  Cybersecurity Controls,  NIST Cybersecurity Framework,  Data Privacy Regulations",
+      "duration": "1 Month",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 76,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd118/nd-card.jpg",
+      "title": "Programming for Data Science with R",
+      "summary": "Prepare for a data science career by learning the fundamental data programming tools: R, SQL, command line, and git.",
+      "skillsCoverd": ["R", "SQL", "GitNone"],
+      "reviewCount": 95,
+      "Prerequisites": "None",
+      "duration": "3 Months",
+      "level": "beginner",
+      "rating": 95.1579
+    },
+    {
+      "id": 77,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/6BtzIPaRvC7xGoL8Y5kbhV/6adc6a974c3b6282474fc8c75ad8ec61/catalog-card.jpg",
+      "title": "Cybersecurity for Business Leaders",
+      "summary": "Learn to leverage the capabilities of cybersecurity best practices to protect your organization and unlock next-level results.",
+      "skillsCoverd": [
+        "Basic Cybersecurity Implementation",
+        "Threat Actors",
+        "Security Devices",
+        "Vulnerability Assessment",
+        "Security Risk Classification",
+        "Cybersecurity Fluency",
+        "Cybersecurity Risk Management",
+        "Cybersecurity Training Strategies",
+        "Social Engineering",
+        "Phishing",
+        "Cybersecurity Incident Response Playbooks",
+        "Cybersecurity Regulations and StandardsNo prior experience is required"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "No prior experience is required",
+      "duration": "1 Month",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 78,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/1qlR5fk0nNVgPj5GJUxZE8/af8e17c22232ee6ccaf0f9d837090241/catalog-card-14.jpg",
+      "title": "Enterprise Security",
+      "summary": "This program addresses security topics related to corporate environments, which are often distinct from production environments and center around the devices, identities, and infrastructure used by personnel on a daily basis.",
+      "skillsCoverd": [
+        "Device Hardening Strategy",
+        "Cybersecurity Policy Writing",
+        "Zero Trust Security Model",
+        "Data Encryption",
+        "Backup Strategy",
+        "API Security",
+        "Cloud Hardening Strategy",
+        "Container Vulnerability Management",
+        "IT Asset Management",
+        "Secure Network Architecture Design",
+        "Cybersecurity ComplianceLinux and Azure"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Linux and Azure",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 79,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/14uVl1pCUPtJOPQHOrnrLi/88053c1e79fd3798b42a1c1bc533e74f/catalog-card_2.jpg",
+      "title": "Zero Trust Security",
+      "summary": "Learners leave the course with a reinvigorated perspective on cybersecurity and a lexicon of practices and solutions that support what is rapidly becoming the new dominant strategy in enterprise security.",
+      "skillsCoverd": [
+        "Zero Trust Pillars",
+        "Zero Trust Security Model",
+        "Zero Trust Deployment Strategy",
+        "Zero Trust Maturity Model",
+        "Zero Trust Algorithms",
+        "Cybersecurity Risk Management",
+        "Perimeter Security"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Zero Trust Pillars,  Zero Trust Security Model,  Zero Trust Deployment Strategy,  Zero Trust Maturity Model,  Zero Trust Algorithms,  Cybersecurity Risk Management,  Perimeter Security",
+      "duration": "1 Month",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 80,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/GvxpAoBA874OBwSdb9lMb/d80e6114fb1e63876597b9e39b8563c0/catalog-card-29.jpg",
+      "title": "Introduction to Digital Project Management",
+      "summary": "This course introduces the field of digital project management, while diving into relevant career paths and what exactly those paths entail. It also covers the basic structure on which digital projects are formed.",
+      "skillsCoverd": [
+        "Digital project management basics",
+        "project management skills",
+        "project management lifecycle"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Digital project management basics,  project management skills,   project management lifecycle",
+      "duration": "1 Week",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 81,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/7FqeT3nCzgYagrlDdSGzmA/d7700e0cf29dfcd75bd84b2246348017/Google_Digital_Leader.jpg",
+      "title": "Getting Started with Google Workspace",
+      "summary": "Learn how to manage mail and schedules effectively. Create, manage and, share content in Google Drive and become more productive through the use of the collaboration features that are an integral and defining part of Google Workspace.",
+      "skillsCoverd": [
+        "Gmail",
+        "Google Calendar",
+        "Google Drive",
+        "Google Docs",
+        "Google Slides",
+        "Google Meet",
+        "Google Chat",
+        "Google Forms",
+        "Intermediate Spreadsheet Use",
+        "Basic Spreadsheet Use"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Gmail,  Google Calendar,  Google Drive,  Google Docs,  Google Slides,  Google Meet,  Google Chat,  Google Forms,  Intermediate Spreadsheet Use,  Basic Spreadsheet Use",
+      "duration": "2 Months",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 82,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud723_thumbnail.jpg",
+      "title": "Rapid Prototyping",
+      "summary": "Learning to prototype will save you time and money in the development process. You’ll create quality apps faster and have confidence in the viability of your products.",
+      "skillsCoverd": ["Prototyping", "User Research", "inVision"],
+      "reviewCount": null,
+      "Prerequisites": "Prototyping, User Research, inVision",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 83,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud977_thumbnail.jpg",
+      "title": "Creating an Analytical Dataset",
+      "summary": "Learn how to prepare data to ensure the efficacy of your analysis while improving fluency in Alteryx.",
+      "skillsCoverd": ["Data Issues", "Data Formatting", "Data Blending"],
+      "reviewCount": null,
+      "Prerequisites": "Data Issues, Data Formatting, Data Blending",
+      "duration": "2 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 84,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud976_thumbnail.jpg",
+      "title": "Problem Solving with Advanced Analytics",
+      "summary": "Learn a scientific approach to solving problems with data, a foundational skill for anyone interested in making data driven decisions in a business context.",
+      "skillsCoverd": ["Linear Regression"],
+      "reviewCount": null,
+      "Prerequisites": "Linear Regression",
+      "duration": "2 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 85,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud978_thumbnail.jpg",
+      "title": "Classification Models",
+      "summary": "Learn how to use classification predictive models to solve business problems involving non-numeric data.",
+      "skillsCoverd": [
+        "Binary Classication Models",
+        "Non-Binary Classification Models"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Binary Classication Models, Non-Binary Classification Models",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 86,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud509_thumbnail.jpg",
+      "title": "Product Design",
+      "summary": "Learn product validation, UI/UX practices, Google’s Design Sprint and the process for setting and tracking actionable metrics.",
+      "skillsCoverd": [
+        "Product Design",
+        "Design Sprints",
+        "Ideation and Validation",
+        "UI/UX"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Product Design, Design Sprints, Ideation and Validation, UI/UX",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 87,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud981_thumbnail.jpg",
+      "title": "Segmentation and Clustering",
+      "summary": "The Segmentation & Clustering course provides students with the knowledge to build and apply clustering models to develop sophisticated segmentation in business contexts.",
+      "skillsCoverd": ["Variable Reduction", "Clustering Models design"],
+      "reviewCount": null,
+      "Prerequisites": "Variable Reduction, Clustering Models design",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 88,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud980_thumbnail.jpg",
+      "title": "Time Series Forecasting",
+      "summary": "The Time Series Forecasting course provides students with the foundational knowledge to build and apply time series forecasting models in a variety of business contexts.",
+      "skillsCoverd": ["Time Series Forecasting", "ETS Models", "ARIMA Models"],
+      "reviewCount": null,
+      "Prerequisites": "Time Series Forecasting, ETS Models, ARIMA Models",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 89,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud719_thumbnail.jpg",
+      "title": "App Marketing",
+      "summary": "This course will help you organize a strategy of identifying your perfect user, and teach you how to grow your user base by focusing your product on their needs.",
+      "skillsCoverd": [
+        "App Marketing",
+        "User Segmentation",
+        "Customer Acquisition"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "App Marketing, User Segmentation, Customer Acquisition",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 90,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud518_thumbnail.jpg",
+      "title": "App Monetization",
+      "summary": "Learn how to effectively develop, implement, and measure your monetization strategy, iterating on the model as appropriate.",
+      "skillsCoverd": ["Product Design", "Google Analytics"],
+      "reviewCount": null,
+      "Prerequisites": "Product Design, Google Analytics",
+      "duration": "1 Month",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 91,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud979_thumbnail.jpg",
+      "title": "A/B Testing for Business Analysts",
+      "summary": "The A/B Testing course provides students with the foundational knowledge to design and analyze A/B tests to create business insights and support decision making.",
+      "skillsCoverd": [
+        "A/B Randomized Design Tests",
+        "A/B Matched Pair Design Tests"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "A/B Randomized Design Tests, A/B Matched Pair Design Tests",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 92,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ep245_thumbnail.jpg",
+      "title": "How to Build a Startup",
+      "summary": "Learn what it takes to build a successful startup using the Customer Development process, where entrepreneurs \"get out of the building\" to gather and iterate on feedback.",
+      "skillsCoverd": [
+        "Entrepreneurship",
+        "Value Proposition",
+        "Revenue Models",
+        "Customer Segments"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Entrepreneurship, Value Proposition, Revenue Models, Customer Segments",
+      "duration": "1 Month",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 93,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud806_thumbnail.jpg",
+      "title": "Get Your Startup Started",
+      "summary": "Acquire the know-how necessary to see your business grow towards its next milestone.",
+      "skillsCoverd": ["Entrepreneurship", "Bootstrapping"],
+      "reviewCount": null,
+      "Prerequisites": "Entrepreneurship, Bootstrapping",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 94,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/ud942-catalog-image.png",
+      "title": "Managing Remote Teams with Upwork",
+      "summary": "Bring your remote-teams to the next level with hands-on skills to manage your remote workforce effectively.",
+      "skillsCoverd": [
+        "Team Management",
+        "Workforce Training",
+        "Business Strategy",
+        "Agile Management",
+        "Remote Work"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Team Management, Workforce Training, Business Strategy, Agile Management, Remote Work",
+      "duration": "1 Hour",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 95,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/4zQNZsgJwlMD2FuRJHpySm/923245c5ba5d25e2b9a04eae08ec3fc1/woman-working-on-power-apps.jpg",
+      "title": "Microsoft Power Platform",
+      "summary": "Learn to build powerful and effective solutions with ease with Microsoft Power Platform. Created in partnership with the Microsoft Power Platform team, this course will introduce you to efficient low-code solutions for data analytics, app development, and artifical intelligence.",
+      "skillsCoverd": [
+        "Microsoft Power Platform",
+        "Power Apps",
+        "Power Automate",
+        "Azure AI Builder"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Microsoft Power Platform, Power Apps, Power Automate, Azure AI Builder",
+      "duration": "1 Month",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 96,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud892_thumbnail.jpg",
+      "title": "Web Tooling & Automation",
+      "summary": "In this course, you’ll learn how to setup your development environment and save a lot of time and effort with automatic optimization.",
+      "skillsCoverd": [
+        "Installing Sublime Text",
+        "Installing Plugins",
+        "Gulp",
+        "Live Editing",
+        "ESLint"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Installing Sublime Text, Installing Plugins, Gulp, Live Editing, ESLint",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 97,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud894_thumbnail.jpg",
+      "title": "Front End Frameworks",
+      "summary": "Explore and build interactive, single-page applications with popular JavaScript frameworks!",
+      "skillsCoverd": [
+        "Single Page Applications",
+        "Building Angular apps",
+        "Building Ember apps",
+        "Underscore's template function",
+        "Backbone events and routing"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Single Page Applications, Building Angular apps, Building Ember apps, Underscore's template function, Backbone events and routing",
+      "duration": "8 Weeks",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 98,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud893_thumbnail.jpg",
+      "title": "Responsive Web Design Fundamentals",
+      "summary": "Learn and practice strategies for developing websites that look great on every device! Made with Google's Pete LePage.",
+      "skillsCoverd": [
+        "Responsive design patterns",
+        "Remote debugging and emulation",
+        "Optimizing layout",
+        "CSS media queries",
+        "CSS flexbox"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Responsive design patterns, Remote debugging and emulation, Optimizing layout, CSS media queries, CSS flexbox",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 99,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/3XVarlWIWEINKKFLloNUoO/4e96a332377e753af6e4b6e74574d487/Screenshot_2021-09-17_at_2.34.40_PM.png",
+      "title": "How to Install Android Studio",
+      "summary": "Participate in this short tutorial to install Android Studio on your computer and set up a new project using the program's Project Wizard.",
+      "skillsCoverd": ["Android", "Android Studio", "Java"],
+      "reviewCount": null,
+      "Prerequisites": "Android, Android Studio, Java",
+      "duration": "1 Day",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 100,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud884_thumbnail.jpg",
+      "title": "Website Performance Optimization",
+      "summary": "Learn how browsers convert HTML, CSS and JavaScript into websites while you experiment with Chrome Developer Tools to measure and optimize website speed!",
+      "skillsCoverd": [
+        "Chrome Developer Tools",
+        "DOM and CSSOM",
+        "Critical Rendering Path HTML",
+        "CSS and JavaScript optimizations"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Chrome Developer Tools, DOM and CSSOM, Critical Rendering Path HTML, CSS and JavaScript optimizations",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 101,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud421_thumbnail.jpg",
+      "title": "iOS Networking with Swift",
+      "summary": "Learn how to incorporate networking into your apps to access data from around the world. Build the On the Map app to share location and fun links with fellow students.",
+      "skillsCoverd": ["Networking", "URLSession", "JSON Parsing"],
+      "reviewCount": null,
+      "Prerequisites": "Networking, URLSession, JSON Parsing",
+      "duration": "3 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 102,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud989_thumbnail.jpg",
+      "title": "JavaScript Design Patterns",
+      "summary": "Learn the importance of code organization and how to implement it with either vanilla JavaScript or an organizational library or framework.",
+      "skillsCoverd": [
+        "Separating concerns",
+        "Code organization",
+        "Using an Organizational Library",
+        "KnockoutJS"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Separating concerns, Code organization, Using an Organizational Library, KnockoutJS",
+      "duration": "6 Weeks",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 103,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud882_thumbnail.jpg",
+      "title": "Responsive Images",
+      "summary": "Go beyond image tags! Learn how to make images a part of your responsive design workflow.",
+      "skillsCoverd": [
+        "Responsive Images",
+        "Mobile Image debugging",
+        "Creating responsive graphics"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Responsive Images, Mobile Image debugging, Creating responsive graphics",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 104,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud774_thumbnail.jpg",
+      "title": "Xcode Debugging",
+      "summary": "In this course, you'll learn standard methodologies for debugging software, and how to use Xcode's debugging tools to find and squash bugs.",
+      "skillsCoverd": ["Debugging", "LLDB"],
+      "reviewCount": null,
+      "Prerequisites": "Debugging, LLDB",
+      "duration": "3 Weeks",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 105,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/build-native-mobile-apps-with-flutter--ud905.jpg",
+      "title": "Build Native Mobile Apps with Flutter",
+      "summary": "Learn from experts at Google how to use Flutter to craft high-quality native interfaces on iOS and Android devices in record time.",
+      "skillsCoverd": ["Android Development"],
+      "reviewCount": null,
+      "Prerequisites": "Android Development",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 106,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud898_thumbnail.jpg",
+      "title": "JavaScript Promises",
+      "summary": "Learn how to simplify asynchronous work with Native JavaScript Promises!",
+      "skillsCoverd": [
+        "Native JavaScript Promises",
+        "Asynchronous code",
+        "Advanced error handling",
+        "Generating sequences of async work"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Native JavaScript Promises, Asynchronous code, Advanced error handling, Generating sequences of async work",
+      "duration": "3 Weeks",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 107,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud788_thumbnail.jpg",
+      "title": "UIKit Fundamentals",
+      "summary": "Learn the iOS UIKit framework, which is the cornerstone of creating user interfaces in all iOS apps and crucial for any iOS Developer to be intimately familiar with.",
+      "skillsCoverd": [
+        "AutoLayout",
+        "Navigation",
+        "Table Views",
+        "Collection Views"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "AutoLayout, Navigation, Table Views, Collection Views",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 108,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud897_thumbnail.jpg",
+      "title": "Client-Server Communication",
+      "summary": "Learn how a client communicates with a server, including HTTP's request and response cycle, HTTP/2 and HTTPs.",
+      "skillsCoverd": [
+        "HTTP request and response cycle",
+        "HTTP headers and verbs",
+        "HTTP/1 and HTTP/2 capabilities",
+        "HTTPS",
+        "Client-Server Communication"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "HTTP request and response cycle, HTTP headers and verbs, HTTP/1 and HTTP/2 capabilities, HTTPS, Client-Server Communication",
+      "duration": "5 Weeks",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 109,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/degrees/nd000/nd-card.jpg",
+      "title": "What is Programming?",
+      "summary": "This course is your first step towards a career in programming.",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "1 Day",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 110,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud890_thumbnail.jpg",
+      "title": "Building High Conversion Web Forms",
+      "summary": "Increase conversions with best practices for fast, efficient forms! Learn how to design and build web forms for users on any device.",
+      "skillsCoverd": [
+        "Research HTML5 input types",
+        "Datalist input",
+        "User input validation with HTML5 attributes",
+        "Validate user input using JavaScript",
+        "Optimizing forms"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Research HTML5 input types, Datalist input, User input validation with HTML5 attributes, Validate user input using JavaScript, Optimizing forms",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 111,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud821_thumbnail.jpg",
+      "title": "Software Architecture & Design",
+      "summary": "Software Architecture and Design teaches the principles and concepts involved in the analysis and design of large software systems.",
+      "skillsCoverd": [
+        "Unified Modeling Language",
+        "Object Constraint Language",
+        "Software Architecture",
+        "Software Design",
+        "Code Review"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Unified Modeling Language, Object Constraint Language, Software Architecture, Software Design, Code Review",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 112,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud459_thumbnail.jpg",
+      "title": "Intro to Information Security",
+      "summary": "",
+      "skillsCoverd": [
+        "Software Security",
+        "Cryptography",
+        "Network Security",
+        "Privacy",
+        "Public Policy"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Software Security, Cryptography, Network Security, Privacy, Public Policy",
+      "duration": "",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 113,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud330_thumbnail.jpg",
+      "title": "Authentication & Authorization: OAuth",
+      "summary": "Learn to implement the OAuth 2.0 framework to allow users to securely and easily login to your web applications.",
+      "skillsCoverd": [
+        "Flask",
+        "OAuth 2.0",
+        "Authentication & Authorization",
+        "Python"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Flask, OAuth 2.0, Authentication & Authorization, Python",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 114,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud585_thumbnail.jpg",
+      "title": "Intro to iOS App Development with Swift",
+      "summary": "Take the first step in becoming an iOS Developer by learning about Swift and writing your first app.",
+      "skillsCoverd": ["Swift", "UIKit", "AVFoundation"],
+      "reviewCount": null,
+      "Prerequisites": "Swift, UIKit, AVFoundation",
+      "duration": "1 Month",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 115,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud923_thumbnail.jpg",
+      "title": "Introduction to Operating Systems",
+      "summary": "Introduction to Operating Systems teaches the basic operating system abstractions, mechanisms, and their implementations.",
+      "skillsCoverd": [
+        "Processes & Threads",
+        "Memory Management",
+        "Inter-Process Communication",
+        "Resource Virtualization",
+        "Distributed File Systems"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Processes & Threads, Memory Management, Inter-Process Communication, Resource Virtualization, Distributed File Systems",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 116,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud891_thumbnail.jpg",
+      "title": "Web Accessibility",
+      "summary": "Get hands-on experience making web applications accessible. You’ll understand when and why users need accessibility, then you’ll dive into how to implement.",
+      "skillsCoverd": [
+        "Accessibility",
+        "Screen Readers",
+        "Focus",
+        "Semantics",
+        "ARIA"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Accessibility, Screen Readers, Focus, Semantics, ARIA",
+      "duration": "2 Weeks",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 117,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud615_thumbnail.jpg",
+      "title": "Scalable Microservices with Kubernetes",
+      "summary": "This course is designed to teach you about managing microservices, using Kubernetes. This course is built in partnership with experts such as Google’s Kelsey Hightower.",
+      "skillsCoverd": [
+        "Microservices",
+        "Docker",
+        "Kubernetes",
+        "Deploying Microservices"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Microservices, Docker, Kubernetes, Deploying Microservices",
+      "duration": "1 Month",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 118,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud9012_catalog.png",
+      "title": "Developing Android Apps with Kotlin",
+      "summary": "Learn the fundamentals of the Kotlin programming language from Kotlin experts at Google.",
+      "skillsCoverd": ["Android Development"],
+      "reviewCount": null,
+      "Prerequisites": "Android Development",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 119,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud860_thumbnail.jpg",
+      "title": "Browser Rendering Optimization",
+      "summary": "This course will demystify the browser's rendering pipeline and make it easy for you to build high performance web apps.",
+      "skillsCoverd": [
+        "Browser Rendering Response",
+        "Animation",
+        "Idle and Load (RAIL)",
+        "Optimizing JavaScript",
+        "How to debug an app"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Browser Rendering Response, Animation, Idle and Load (RAIL), Optimizing JavaScript, How to debug an app",
+      "duration": "1 Month",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 120,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud902_thumbnail.jpg",
+      "title": "Learn Swift Programming Syntax",
+      "summary": "This course focuses on the syntax of the Swift programming language. By the end of the course, you'll be able to apply Swift essentials to building iOS apps.",
+      "skillsCoverd": [
+        "Variables and Constants",
+        "Control Flow",
+        "Functions",
+        "Optionals",
+        "OOP"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Variables and Constants, Control Flow, Functions, Optionals, OOP",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 121,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud899_thumbnail.jpg",
+      "title": "Offline Web Applications",
+      "summary": "Learn how to develop offline-first web application using Service Workers and IndexedDB.",
+      "skillsCoverd": [
+        "Developing offline-first applications",
+        "Understanding Lie-Fi",
+        "Service Worker DevTools",
+        "IndexedDB",
+        "IndexedDB asset caching"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Developing offline-first applications, Understanding Lie-Fi, Service Worker DevTools, IndexedDB, IndexedDB asset caching",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 122,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud888_thumbnail.jpg",
+      "title": "Kotlin for Android Developers",
+      "summary": "Take an Android app in Java and convert it to Kotlin, learning key features of the Kotlin programming language along the way.",
+      "skillsCoverd": ["Kotlin", "Android"],
+      "reviewCount": null,
+      "Prerequisites": "Kotlin, Android",
+      "duration": "1 Week",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 123,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud849_thumbnail.jpg",
+      "title": "UX Design for Mobile Developers",
+      "summary": "This is a design course made for developers. You'll learn UX design skills which will help you make 5-star mobile apps that your users will love.",
+      "skillsCoverd": ["Android", "UX Design", "User-Centered Design"],
+      "reviewCount": null,
+      "Prerequisites": "Android, UX Design, User-Centered Design",
+      "duration": "6 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 124,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud805_thumbnail.jpg",
+      "title": "Software Development Process",
+      "summary": "Software Development Processes explores requirements engineering, architecture and design, testing, and software quality in general.",
+      "skillsCoverd": [
+        "Software Development Life Cycle",
+        "Requirements Engineering",
+        "Design Patterns",
+        "Black-Box & White-Box Testing",
+        "Agile Development Methodology"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Software Development Life Cycle, Requirements Engineering, Design Patterns, Black-Box & White-Box Testing, Agile Development Methodology",
+      "duration": "3 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 125,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1006_thumbnail.jpg",
+      "title": "Data Visualization in Tableau",
+      "summary": "Learn the fundamentals of data visualization and practice communicating with data.",
+      "skillsCoverd": [
+        "Tableau",
+        "Design of Visualizations",
+        "Visual Encodings"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Tableau, Design of Visualizations, Visual Encodings",
+      "duration": "3 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 126,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud811_thumbnail.jpg",
+      "title": "Intro to Progressive Web Apps",
+      "summary": "In this course you’ll get started working on your very first Progressive Web App (PWA) - a web app that can take advantage of many features native applications have enjoyed!",
+      "skillsCoverd": [
+        "Progressive Web Apps",
+        "Service Workers",
+        "Web App Manifest",
+        "Offline apps"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Progressive Web Apps, Service Workers, Web App Manifest, Offline apps",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 127,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud777_thumbnail.jpg",
+      "title": "Writing READMEs",
+      "summary": "Documentation is an important part of the development process. Learn to write READMEs using Markdown so your code can be used by other humans!",
+      "skillsCoverd": ["README", "Markdown", "Making code easier to read"],
+      "reviewCount": null,
+      "Prerequisites": "README, Markdown, Making code easier to read",
+      "duration": "3 Days",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 128,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud333_thumbnail.jpg",
+      "title": "Software Analysis & Testing",
+      "summary": "This course covers the theory and practice of software analysis, which is at the heart of software development processes such as diagnosing bugs, testing, and debugging.",
+      "skillsCoverd": [
+        "Software Testing",
+        "Debugging",
+        "Dataflow Analysis",
+        "Constraint-based Analysis",
+        "Symbolic Execution"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Software Testing, Debugging, Dataflow Analysis, Constraint-based Analysis, Symbolic Execution",
+      "duration": "16 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 129,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud325_thumbnail.jpg",
+      "title": "iOS Persistence and Core Data",
+      "summary": "Persisting data is a core skill for any iOS developer. Learn how to store app data to your device using three common techniques: NSUserDefaults, Sandbox, and Core Data.",
+      "skillsCoverd": [
+        "Data Persistence",
+        "Core Data",
+        "UserDefaults",
+        "FileManager"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Data Persistence, Core Data, UserDefaults, FileManager",
+      "duration": "2 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 130,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud436_thumbnail.jpg",
+      "title": "Computer Networking",
+      "summary": "This is an advanced Computer Networking course that delves into the latest concepts and tools used by the CN industry.",
+      "skillsCoverd": [
+        "Software-Defined Networking",
+        "Data Center Networking",
+        "Content Distribution",
+        "Congestion Control",
+        "Traffic Shaping"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Software-Defined Networking, Data Center Networking, Content Distribution, Congestion Control, Traffic Shaping",
+      "duration": "3 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 131,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud353_thumbnail.jpg",
+      "title": "Firebase Analytics: iOS",
+      "summary": "Learn how to grow an app's user base using Firebase Analytics, a free and unlimited analytics solution",
+      "skillsCoverd": [
+        "Android Development",
+        "Firebase Analytics",
+        "Firebase Crash Reporting",
+        "Firebase Remote Config",
+        "Firebase Dynamic Links"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Android Development, Firebase Analytics, Firebase Crash Reporting, Firebase Remote Config, Firebase Dynamic Links",
+      "duration": "1 Day",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 132,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud400_thumbnail.jpg",
+      "title": "Human-Computer Interaction",
+      "summary": "This course is an introductory course on human-computer interaction, covering the principles, techniques, and open areas of development in HCI.",
+      "skillsCoverd": [
+        "Design Principles",
+        "Direct Manipulation Interfaces",
+        "Mental Models",
+        "Distributed Cognition",
+        "Prototyping"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Design Principles, Direct Manipulation Interfaces, Mental Models, Distributed Cognition, Prototyping",
+      "duration": "16 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 133,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud405_thumbnail.jpg",
+      "title": "2D Game Development with libGDX",
+      "summary": "This course explores how to use LibGDX to build 2D games that run anywhere, from web browsers to mobile devices. At the end you will create a full game, called Icicles.",
+      "skillsCoverd": ["LibGDX", "Game Development", "2D"],
+      "reviewCount": null,
+      "Prerequisites": "LibGDX, Game Development, 2D",
+      "duration": "8 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 134,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud245_thumbnail.jpg",
+      "title": "Intro to jQuery",
+      "summary": "Learn how to access and modify the DOM with ease using jQuery!",
+      "skillsCoverd": [
+        "jQuery",
+        "DOM Structure",
+        "Reading jQuery documentation",
+        "Modify HTML attributes and content"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "jQuery, DOM Structure, Reading jQuery documentation, Modify HTML attributes and content",
+      "duration": "2 Days",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 135,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud279_thumbnail.jpg",
+      "title": "Cyber-Physical Systems Security",
+      "summary": "This course provides an introduction to security issues relating to cyber-physical systems including industrial control systems and critical infrastructures.",
+      "skillsCoverd": [
+        "Industrial Networks",
+        "Industrial Control Systems",
+        "Smart Grid Infrastructure",
+        "Cyber Security",
+        "Privacy"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Industrial Networks, Industrial Control Systems, Smart Grid Infrastructure, Cyber Security, Privacy",
+      "duration": "16 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 136,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/2XDIKTVb7GnCFj4gusYCuS/558da8b0e00c775132c4674e7a8773a4/nd-card.jpg",
+      "title": "Introduction to Graduate Algorithms",
+      "summary": "Learn advanced techniques for designing algorithms and apply them to hard computational problems.",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "3 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 137,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud268_thumbnail.jpg",
+      "title": "Dynamic Web Applications with Sinatra",
+      "summary": "Sinatra is a micro-framework for quickly developing small Ruby applications for the web. In this course, you'll learn all about Sinatra, routing, and templating.",
+      "skillsCoverd": ["Ruby", "Sinatra", "Building web applications"],
+      "reviewCount": null,
+      "Prerequisites": "Ruby, Sinatra, Building web applications",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 138,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud406_thumbnail.jpg",
+      "title": "How to Make a Platformer Using libGDX",
+      "summary": "This course will explore how to create a game called Giga Gal. Giga Gal is a platformer in which you run, collect energy packs, jump a bunch, and shoot enemies.",
+      "skillsCoverd": ["LibGDX", "Game Development", "Asset management"],
+      "reviewCount": null,
+      "Prerequisites": "LibGDX, Game Development, Asset management",
+      "duration": "8 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 139,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud549_thumbnail.jpg",
+      "title": "JavaScript Testing",
+      "summary": "Learn how to iterate on your web applications with confidence using the red-green-refactor workflow cycle and automated testing frameworks.",
+      "skillsCoverd": [
+        "Javascript Apps",
+        "Jasmine testing framework",
+        "red-green-refactor workflow"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Javascript Apps, Jasmine testing framework, red-green-refactor workflow",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 140,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud711_thumbnail.jpg",
+      "title": "Object-Oriented JavaScript",
+      "summary": "",
+      "skillsCoverd": [
+        "Object Oriented Javascript",
+        "Object-oriented programming",
+        "Data and functionality",
+        "Prototypal inheritance"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Object Oriented Javascript, Object-oriented programming, Data and functionality, Prototypal inheritance",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 141,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud610_thumbnail.jpg",
+      "title": "Localization Essentials",
+      "summary": "Localization is about making a product feel tailored to users around the world. Specifically, it is the process of adapting a product to a language, culture and market.",
+      "skillsCoverd": [
+        "Localization",
+        "Google Translator Toolkit",
+        "Localization at Google"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Localization, Google Translator Toolkit, Localization at Google",
+      "duration": "2 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 142,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud168_thumbnail.jpg",
+      "title": "Compilers: Theory and Practice",
+      "summary": "This course teaches the theory and practice behind building compilers for higher level programming languages.",
+      "skillsCoverd": [
+        "Compilers",
+        "Semantic Analysis",
+        "Syntax Directed Translation",
+        "Control Flow Analysis"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Compilers, Semantic Analysis, Syntax Directed Translation, Control Flow Analysis",
+      "duration": "",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 143,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud292_thumbnail.jpg",
+      "title": "HTML5 Canvas",
+      "summary": "Learn how you can use HTML5 Canvas to create and modify images or even interactive animations.",
+      "skillsCoverd": ["HTML5 Canvas", "Canvas2D", "Creating animation"],
+      "reviewCount": null,
+      "Prerequisites": "HTML5 Canvas, Canvas2D, Creating animation",
+      "duration": "2 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 144,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud283_thumbnail.jpg",
+      "title": "Object Oriented Programming in Java",
+      "summary": "Learn how to apply powerful object-oriented programming concepts in Java",
+      "skillsCoverd": [
+        "Object-Oriented Programming",
+        "Java",
+        "User Interaction"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Object-Oriented Programming, Java, User Interaction",
+      "duration": "4 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 145,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud388_thumbnail.jpg",
+      "title": "Designing RESTful APIs",
+      "summary": "Build and secure a web server with a RESTful Developer-Friendly API that developers will love to use.",
+      "skillsCoverd": ["Flask", "REST APIs", "Python"],
+      "reviewCount": null,
+      "Prerequisites": "Flask, REST APIs, Python",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 146,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud098_thumbnail.jpg",
+      "title": "GT - Refresher - Advanced OS",
+      "summary": "This course covers the essential Operating Systems concepts students need in preparation for the rest of the GT \"Advanced Operating Systems\" sequence.",
+      "skillsCoverd": [
+        "Operating Systems",
+        "Virtual Memory",
+        "File Systems",
+        "Multithreaded Programming",
+        "Networking"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Operating Systems, Virtual Memory, File Systems, Multithreaded Programming, Networking",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 147,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud803_thumbnail.jpg",
+      "title": "Intro to JavaScript",
+      "summary": "Learn the fundamentals of JavaScript, the most popular programming language in web development.",
+      "skillsCoverd": [
+        "JavaScript",
+        "Conditionals",
+        "Loops",
+        "Data Types & Variables"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "JavaScript, Conditionals, Loops, Data Types & Variables",
+      "duration": "2 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 148,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud576_thumbnail.jpg",
+      "title": "Grand Central Dispatch (GCD)",
+      "summary": "Learn how to prevent background operations from interfering with an app's UI by implementing Apple's GCD framework.",
+      "skillsCoverd": ["Closures", "GCD"],
+      "reviewCount": null,
+      "Prerequisites": "Closures, GCD",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 149,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1030_thumbnail.jpg",
+      "title": "Continuous Integration and Deployment",
+      "summary": "In this course, you'll learn how to improve the mobile development process by using continuous integration and deployment.",
+      "skillsCoverd": [
+        "Continuous Integration",
+        "BuddyBuild",
+        "Automated Testing"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Continuous Integration, BuddyBuild, Automated Testing",
+      "duration": "2 Days",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 150,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1022_thumbnail.jpg",
+      "title": "Swift for Beginners",
+      "summary": "Learn Swift, Apple's programming language for building iOS applications. Start with the basics and work your way towards completing sets of challenges in Swift.",
+      "skillsCoverd": [
+        "Variables and Constants",
+        "Strings",
+        "Control Flow",
+        "Functions"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Variables and Constants, Strings, Control Flow, Functions",
+      "duration": "7 Days",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 151,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/st101_thumbnail.jpg",
+      "title": "Intro to Statistics",
+      "summary": "Get ready to analyze, visualize, and interpret data! Thought-provoking examples and chances to combine statistics and programming will keep you engaged and challenged.",
+      "skillsCoverd": [
+        "Probability",
+        "Descriptive Statistics",
+        "Inferential Statistics"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Probability, Descriptive Statistics, Inferential Statistics",
+      "duration": "2 Months",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 152,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud001_thumbnail.jpg",
+      "title": "Intro to HTML and CSS",
+      "summary": "In this course, you'll learn the fundamentals web development, along with best practices and professional problem-solving techniques using Developer Tools.",
+      "skillsCoverd": ["HTML", "CSS", "CSS Syntax", "HTML Syntax Problem Set"],
+      "reviewCount": null,
+      "Prerequisites": "HTML, CSS, CSS Syntax, HTML Syntax Problem Set",
+      "duration": "3 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 153,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-ud1110.png",
+      "title": "Introduction to Python Programming",
+      "summary": "In this course, you'll learn the fundamentals of the Python programming language, along with programming best practices. You’ll learn to represent and store data using Python data types and variables, and use conditionals and loops to control the flow of your programs. You’ll harness the power of complex data structures like lists, sets, dictionaries, and tuples to store collections of related data. You’ll define and document your own custom functions, write scripts, and handle errors. Lastly, you’ll learn to find and use modules in the Python Standard Library and other third-party libraries.",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "5 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 154,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1012_thumbnail.jpg",
+      "title": "Introduction to Virtual Reality",
+      "summary": "If you are interested in learning more about virtual reality, this course will teach you the principles of VR technology and help you understand what you can build in VR.",
+      "skillsCoverd": [
+        "VR development",
+        "Unity",
+        "Google VR SDK for Unity",
+        "General understanding of how VR works",
+        "Deploying to Android and iOS"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "VR development, Unity, Google VR SDK for Unity, General understanding of how VR works, Deploying to Android and iOS",
+      "duration": "2 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 155,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1009_thumbnail.jpg",
+      "title": "Objective-C for Swift Developers",
+      "summary": "Learn the distinguishing language features of Objective-C. Practice Objective-C syntax by writing classes, and writing and calling methods.",
+      "skillsCoverd": ["iOS", "Swift", "Objective-C", "Control Flow Syntax"],
+      "reviewCount": null,
+      "Prerequisites": "iOS, Swift, Objective-C, Control Flow Syntax",
+      "duration": "5 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 156,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs291_thumbnail.jpg",
+      "title": "Interactive 3D Graphics",
+      "summary": "This course will teach you the principles of 3D computer graphics: meshes, transforms, lighting, animation, and making interactive 3D applications run in a browser.",
+      "skillsCoverd": [
+        "Animated 3D Demo Program",
+        "Computer Image Generation",
+        "Programming Vertex and Pixel Shaders"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Animated 3D Demo Program, Computer Image Generation, Programming Vertex and Pixel Shaders",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 157,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud088_thumbnail.jpg",
+      "title": "Full Stack Foundations",
+      "summary": "Learn the fundamentals of back-end web development by creating your own web application from the ground up using the iterative development process.",
+      "skillsCoverd": [
+        "Flask",
+        "CRUD",
+        "Model-View-Controller",
+        "Python",
+        "Object-relational Mapping"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Flask, CRUD, Model-View-Controller, Python, Object-relational Mapping",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 158,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud007_thumbnail.jpg",
+      "title": "High Performance Computer Architecture",
+      "summary": "The HPCA course covers performance measurement, pipelining, and improved parallelism through various means.",
+      "skillsCoverd": [
+        "Processor Pipelining",
+        "Branch Prediction",
+        "Instruction Scheduling",
+        "Memory Ordering",
+        "Multiprocessor Architectures"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Processor Pipelining, Branch Prediction, Instruction Scheduling, Memory Ordering, Multiprocessor Architectures",
+      "duration": "",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 159,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1026_thumbnail.jpg",
+      "title": "AutoLayout",
+      "summary": "With this course, you will learn about AutoLayout and how to use stack views and constraints to create pixel-perfect UIs.",
+      "skillsCoverd": ["Design", "UI", "Stack Views", "Constraints"],
+      "reviewCount": null,
+      "Prerequisites": "Design, UI, Stack Views, Constraints",
+      "duration": "6 Days",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 160,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/kotlin-bootcamp-for-programmers--ud9011.jpg",
+      "title": "Kotlin Bootcamp for Programmers",
+      "summary": "Learn the fundamentals of the Kotlin programming language from Kotlin experts at Google.",
+      "skillsCoverd": ["Android Development"],
+      "reviewCount": null,
+      "Prerequisites": "Android Development",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 161,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/7eORa6xjKXkkSaVS4DVHR9/b47ad5cdda8f248dd4d1d80be60ca782/Screenshot_2021-09-17_at_2.37.56_PM.png",
+      "title": "Shell Workshop",
+      "summary": "This course is intended to get you up to speed on the shell — using a terminal, managing files and directories, and running command-line programs.",
+      "skillsCoverd": ["Unix-style command-line environment"],
+      "reviewCount": null,
+      "Prerequisites": "Unix-style command-line environment",
+      "duration": "1 Day",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 162,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1038_thumbnail.jpg",
+      "title": "Core ML: Machine Learning for iOS",
+      "summary": "Learn how to use Apple's Core ML framework to build iOS apps with intelligent new features.",
+      "skillsCoverd": ["iOS", "Image Classification", "Core ML"],
+      "reviewCount": null,
+      "Prerequisites": "iOS, Image Classification, Core ML",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 163,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/st095_thumbnail.jpg",
+      "title": "Statistics",
+      "summary": "We live in a time of unprecedented access to information. You'll learn how to use statistics to interpret that information and make decisions.",
+      "skillsCoverd": [
+        "Statistical Research Methods",
+        "Data Visualization",
+        "Distributions",
+        "Hypothesis Testing",
+        "Regression"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Statistical Research Methods, Data Visualization, Distributions, Hypothesis Testing, Regression",
+      "duration": "4 Months",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 164,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs313_thumbnail.jpg",
+      "title": "Intro to Theoretical Computer Science",
+      "summary": "Learn the basic concepts in theoretical computer science. Discover what they imply for solving tough computational challenges.",
+      "skillsCoverd": [
+        "theoretical computer science",
+        "NP-completeness",
+        "Recognizing algorithmic problems",
+        "Solving algorithmic problems"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "theoretical computer science, NP-completeness, Recognizing algorithmic problems, Solving algorithmic problems",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 165,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs212_thumbnail.jpg",
+      "title": "Design of Computer Programs",
+      "summary": "Learn how to model problems, and how to optimize performance by using some of the advanced features of Python.",
+      "skillsCoverd": ["Computer Program Design", "Python", "Design Process"],
+      "reviewCount": null,
+      "Prerequisites": "Computer Program Design, Python, Design Process",
+      "duration": "2 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 166,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud032_thumbnail.jpg",
+      "title": "Data Wrangling with MongoDB",
+      "summary": "Data Scientists spend most of their time cleaning data. In this course, you will learn to convert and manipulate messy data to extract what you need.",
+      "skillsCoverd": [
+        "Gathering Data",
+        "Assessing Data",
+        "Cleaning Data",
+        "Data Wrangling",
+        "MongoDB"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Gathering Data, Assessing Data, Cleaning Data, Data Wrangling, MongoDB",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 167,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1025_thumbnail.jpg",
+      "title": "Swift for Developers",
+      "summary": "Get a quick practical introduction to Swift programming basics and build your first iOS app!",
+      "skillsCoverd": [
+        "Variables and Constants",
+        "Strings",
+        "Control Flow",
+        "Functions"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Variables and Constants, Strings, Control Flow, Functions",
+      "duration": "7 Days",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 168,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud0352_thumbnail.jpg",
+      "title": "Firebase in a Weekend: Android",
+      "summary": "This course will teach you when and why to choose Firebase as a backend for your Android application.",
+      "skillsCoverd": ["Android Development"],
+      "reviewCount": null,
+      "Prerequisites": "Android Development",
+      "duration": "2 Days",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 169,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs259_thumbnail.jpg",
+      "title": "Software Debugging",
+      "summary": "In this course you will learn how to debug programs systematically using scientific methods and build several automated debugging tools in Python.",
+      "skillsCoverd": ["Debugging", "Python", "Automated Debugging"],
+      "reviewCount": null,
+      "Prerequisites": "Debugging, Python, Automated Debugging",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 170,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1000_thumbnail.jpg",
+      "title": "Deploying a Hadoop Cluster",
+      "summary": "Deploy your own Hadoop cluster to crunch some big data!",
+      "skillsCoverd": ["Data Analysis", "Hadoop", "MapReduce"],
+      "reviewCount": null,
+      "Prerequisites": "Data Analysis, Hadoop, MapReduce",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 171,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1031_thumbnail.jpg",
+      "title": "Server-Side Swift",
+      "summary": "In this course, built in collaboration with IBM and Hashicorp, you'll learn how to use Swift as a server-side language for building end-to-end applications.",
+      "skillsCoverd": [
+        "Swift Package Manager",
+        "MySQL",
+        "Docker",
+        "Terraform",
+        "Microservices"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Swift Package Manager, MySQL, Docker, Terraform, Microservices",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 172,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud256_thumbnail.jpg",
+      "title": "Networking for Web Developers",
+      "summary": "You've used the Internet. Now find out more about how it works.",
+      "skillsCoverd": [
+        "HTTP",
+        "Domain Name System",
+        "Ping",
+        "TCP/IP stack",
+        "IP addressing"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "HTTP, Domain Name System, Ping, TCP/IP stack, IP addressing",
+      "duration": "2 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 173,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud150_thumbnail.jpg",
+      "title": "Database Systems Concepts & Design",
+      "summary": "This course presents an example of applying a database application development methodology to a major real-world project.",
+      "skillsCoverd": [
+        "Database Management Systems",
+        "Relational Algebra",
+        "Sequential Query Language",
+        "Data Indexing",
+        "SQL Injection"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Database Management Systems, Relational Algebra, Sequential Query Language, Data Indexing, SQL Injection",
+      "duration": "16 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 174,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ph100_thumbnail.jpg",
+      "title": "Intro to Physics",
+      "summary": "Go to the places where big physics discoveries were made in the past and make them yourself. You’ll visit Italy, the Netherlands, and the UK as you learn basic physics.",
+      "skillsCoverd": [
+        "Kinematics",
+        "Dynamics",
+        "Trigonometry",
+        "Periodic Motion",
+        "Electricity"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Kinematics, Dynamics, Trigonometry, Periodic Motion, Electricity",
+      "duration": "2 Months",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 175,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud197_thumbnail.jpg",
+      "title": "Intro to Relational Databases",
+      "summary": "Relational databases are a powerful tool used throughout the industry. Learn the basics of SQL and how to connect your Python code to a relational database.",
+      "skillsCoverd": [
+        "Rational databases",
+        "SQL",
+        "Python API",
+        "Python DB-API",
+        "Select and insert statements"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Rational databases, SQL, Python API, Python DB-API, Select and insert statements",
+      "duration": "4 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 176,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud356_thumbnail.jpg",
+      "title": "ES6 - JavaScript Improved",
+      "summary": "Learn about the changes made to the JavaScript programming language in ECMAScript 6 and how to use these new improvements to write better cleaner code.",
+      "skillsCoverd": ["JavaScript", "ES6", "Syntax", "Functions"],
+      "reviewCount": null,
+      "Prerequisites": "JavaScript, ES6, Syntax, Functions",
+      "duration": "4 Weeks",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 177,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1034_thumbnail.jpg",
+      "title": "Mobile Design and Usability for iOS",
+      "summary": "In this course, taught in collaboration with Facebook, you'll learn how to design an intuitive, user-centered mobile app, from product conception to release.",
+      "skillsCoverd": ["Product Design", "Prototyping"],
+      "reviewCount": null,
+      "Prerequisites": "Product Design, Prototyping",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 178,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud110_thumbnail.jpg",
+      "title": "Intro to AJAX",
+      "summary": "Learn how to perform asynchronous requests as you build a web app with data from Google Street View, the New York Times and Wikipedia!",
+      "skillsCoverd": [
+        "Asynchronous requests with JavaScript",
+        "Data APIs",
+        "Web Applications",
+        "Site Customization"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Asynchronous requests with JavaScript, Data APIs, Web Applications, Site Customization",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 179,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs215_thumbnail.jpg",
+      "title": "Intro to Algorithms",
+      "summary": "This class will give you an introduction to the design and analysis of algorithms, enabling you to analyze networks and discover how individuals are connected.",
+      "skillsCoverd": ["Algorithms", "Social Networks", "Graph Algorithms"],
+      "reviewCount": null,
+      "Prerequisites": "Algorithms, Social Networks, Graph Algorithms",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 180,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud270_thumbnail.jpg",
+      "title": "The MVC Pattern in Ruby",
+      "summary": "In this course you’ll learn how to organize your code, and why that’s important. You’ll be using the MVC Design Pattern in the web application micro-framework Sinatra.",
+      "skillsCoverd": [
+        "Ruby",
+        "Sinatra",
+        "MVC Design Pattern",
+        "Writing organized code"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Ruby, Sinatra, MVC Design Pattern, Writing organized code",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 181,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud667_thumbnail.jpg",
+      "title": "WeChat Mini Program Development",
+      "summary": "Developed by Tencent and Udacity, this course will teach you to build your first Mini Program.",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "4 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 182,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud109_thumbnail.jpg",
+      "title": "Asynchronous JavaScript Requests",
+      "summary": "Learn how to asynchronously request data in your web applications with Ajax.",
+      "skillsCoverd": [
+        "Asynchronous Data Retrieval",
+        "Ajax with XHR",
+        "Ajax with jQuery",
+        "Ajax with Fetch"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Asynchronous Data Retrieval, Ajax with XHR, Ajax with jQuery, Ajax with Fetch",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 183,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud169_thumbnail.jpg",
+      "title": "Embedded Systems",
+      "summary": "This course takes a holistic view of the embedded system stack focusing on processor architectures, instruction sets, and the associated advanced compiler optimizations.",
+      "skillsCoverd": [
+        "VLIW Architecture",
+        "Compilers for Embedded Systems",
+        "Differential Register Allocation",
+        "Network Processors",
+        "Multithreaded Processing"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "VLIW Architecture, Compilers for Embedded Systems, Differential Register Allocation, Network Processors, Multithreaded Processing",
+      "duration": "16 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 184,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud281_thumbnail.jpg",
+      "title": "High Performance Computing",
+      "summary": "This course will give you solid foundations for developing, analyzing, and implementing parallel and locality-efficient algorithms.  Offered at Georgia Tech as CS6220",
+      "skillsCoverd": [
+        "Shared Memory Models",
+        "Parallel Algorithms",
+        "Distributed Memory Models",
+        "Message Passing Interfaces",
+        "Hierarchical Memory Models"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Shared Memory Models, Parallel Algorithms, Distributed Memory Models, Message Passing Interfaces, Hierarchical Memory Models",
+      "duration": "4 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 185,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud303_thumbnail.jpg",
+      "title": "HTTP & Web Servers",
+      "summary": "HTTP is the fundamental protocol of the Web. Explore how it works using Python code and command-line tools.",
+      "skillsCoverd": ["HTTP", "Python", "Deploying services"],
+      "reviewCount": null,
+      "Prerequisites": "HTTP, Python, Deploying services",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 186,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/ud940-catalog-card.png",
+      "title": "Advanced Android with Kotlin",
+      "summary": "Develop Feature-Rich Android Apps with the Kotlin Programming Language.",
+      "skillsCoverd": ["Kotlin", "Android"],
+      "reviewCount": null,
+      "Prerequisites": "Kotlin, Android",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 187,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud061_thumbnail.jpg",
+      "title": "Computability, Complexity & Algorithms",
+      "summary": "Learn tools and techniques that will help you recognize when problems you encounter are intractable and when there an efficient solution.",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 188,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud189_thumbnail.jpg",
+      "title": "Advanced Operating Systems",
+      "summary": "",
+      "skillsCoverd": [
+        "Operating System Kernels",
+        "Virtualization",
+        "Distributed Systems",
+        "Cloud Computing",
+        "Real-Time Operating Systems"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Operating System Kernels, Virtualization, Distributed Systems, Cloud Computing, Real-Time Operating Systems",
+      "duration": "5 Weeks",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 189,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1028_thumbnail.jpg",
+      "title": "Passwordless Login Solutions for iOS",
+      "summary": "In this course you'll implement Account Kit and Facebook Login side by side in a sample app, test our login flow on a series of common use cases, and wrap things up with an introduction to Facebook’s Graph API.",
+      "skillsCoverd": ["Account Kit", "Facebook SDK", "Graph API"],
+      "reviewCount": null,
+      "Prerequisites": "Account Kit, Facebook SDK, Graph API",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 190,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud123_thumbnail.jpg",
+      "title": "Version Control with Git",
+      "summary": "Learn how to use Git, a popular Version Control System and essential tool for any developer.",
+      "skillsCoverd": [
+        "Git",
+        "Version Control",
+        "Creating a Git repo",
+        "Editing commits"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Git, Version Control, Creating a Git repo, Editing commits",
+      "duration": "4 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 191,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud0351_thumbnail.jpg",
+      "title": "Firebase in a Weekend: iOS",
+      "summary": "This course will teach you when and why to choose Firebase as a backend for your iOS application.",
+      "skillsCoverd": ["Android Development"],
+      "reviewCount": null,
+      "Prerequisites": "Android Development",
+      "duration": "2 Days",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 192,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud162_thumbnail.jpg",
+      "title": "Intro to Point & Click App Development",
+      "summary": "In this short class you'll build powerful apps without writing code. Great if you're an aspiring developer or someone who wants to learn what programmers do.",
+      "skillsCoverd": [
+        "Salesforce App Development",
+        "Schema Building",
+        "Data Modeling"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Salesforce App Development, Schema Building, Data Modeling",
+      "duration": "1 Month",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 193,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud272_thumbnail.jpg",
+      "title": "Deploying Applications with Heroku",
+      "summary": "Deploy your first web application using the Heroku platform and learn about the underlying mechanics of web hosting.",
+      "skillsCoverd": ["App Deployment", "Heroku"],
+      "reviewCount": null,
+      "Prerequisites": "App Deployment, Heroku",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 194,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs387_thumbnail.jpg",
+      "title": "Applied Cryptography",
+      "summary": "Cryptography is present in everyday life, from paying with a credit card to using the telephone.  Learn all about making and breaking puzzles in computing.",
+      "skillsCoverd": ["Cryptography", "Ciphers", "Encryption"],
+      "reviewCount": null,
+      "Prerequisites": "Cryptography, Ciphers, Encryption",
+      "duration": "2 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 195,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud282_thumbnail.jpg",
+      "title": "Java Programming Basics",
+      "summary": "Take your first steps towards becoming a Java developer! Learn Java syntax and create conditional statements, loops, and functions.",
+      "skillsCoverd": [
+        "Java Programming",
+        "Java Syntax",
+        "Java Functions",
+        "Loops"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Java Programming, Java Syntax, Java Functions, Loops",
+      "duration": "6 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 196,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud210_thumbnail.jpg",
+      "title": "C++ For Programmers",
+      "summary": "This course teaches C++ to students already familiar with a programming language. Students will learn how to use header files, control flow, functions, classes.",
+      "skillsCoverd": [
+        "Pointers and Arrays",
+        "Control Flow",
+        "Object-Oriented Programming",
+        "C++ Templates",
+        "C++ Standard Library"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Pointers and Arrays, Control Flow, Object-Oriented Programming, C++ Templates, C++ Standard Library",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 197,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/2XDIKTVb7GnCFj4gusYCuS/558da8b0e00c775132c4674e7a8773a4/nd-card.jpg",
+      "title": "Intro to Backend",
+      "summary": "Learn to build a multiuser blog with Google App Engine that permits users to sign in",
+      "skillsCoverd": [
+        "User Input",
+        "Producing templated output",
+        "Databases and data stores",
+        "Secure user account systems"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "User Input, Producing templated output, Databases and data stores, Secure user account systems",
+      "duration": "3 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 198,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/7lJEXJoUaWm6i52ArquLZM/935cc985b1f8f685687b5498b33a8aa3/Screenshot_2021-04-08_at_8.25.43_PM.png",
+      "title": "Network Security",
+      "summary": "This course provides an introduction to computer and network security. Students successfully completing this class will be able to evaluate works in academic and commercial security, and will have rudimentary skills in security research.",
+      "skillsCoverd": [
+        "Basic elements of cryptography",
+        "cryptanalysis and systems security",
+        "security research"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Basic elements of cryptography,  cryptanalysis and systems security,  security research",
+      "duration": "16 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 199,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud117_thumbnail.jpg",
+      "title": "JavaScript and the DOM",
+      "summary": "",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "4 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 200,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud354_thumbnail.jpg",
+      "title": "Firebase Analytics: Android",
+      "summary": "Learn how to grow an app's user base using Firebase Analytics, a free and unlimited analytics solution",
+      "skillsCoverd": ["Android Development", "Firebase", "Analytics"],
+      "reviewCount": null,
+      "Prerequisites": "Android Development, Firebase, Analytics",
+      "duration": "2 Days",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 201,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/Msw9E5I7F3JBhGDUX87GA/6400f0528d9bceaf05c0acc91b4ae02b/cre-582_Catalog_Image.png",
+      "title": "Configuring Linux Web Servers",
+      "summary": "",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "1 Week",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 202,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud607_thumbnail.jpg",
+      "title": "How to Make an iOS App",
+      "summary": "Learn the process of building an app, taking your ideas from drawing board to App Store!",
+      "skillsCoverd": ["iOS", "Ideation and Research", "UI", "App Store"],
+      "reviewCount": null,
+      "Prerequisites": "iOS, Ideation and Research, UI, App Store",
+      "duration": "3 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 203,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud864_thumbnail.jpg",
+      "title": "Google Maps APIs",
+      "summary": "This course will introduce you to the content available through the Google Maps APIs through building a real-estate listings web application step-by-step.",
+      "skillsCoverd": [
+        "Google Maps APIs",
+        "Static Maps",
+        "Street View imagery",
+        "monitoring API usage"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Google Maps APIs, Static Maps, Street View imagery, monitoring API usage",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 204,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/2XDIKTVb7GnCFj4gusYCuS/558da8b0e00c775132c4674e7a8773a4/nd-card.jpg",
+      "title": "Passwordless Login Solutions for Android",
+      "summary": "",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 205,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud358_thumbnail.jpg",
+      "title": "Mobile Design and Usability for Android",
+      "summary": "In this course, taught in collaboration with Facebook, you'll learn how to design an intuitive, user-centered mobile app, from product conception to release.",
+      "skillsCoverd": ["Android", "Mobile Design", "Usability"],
+      "reviewCount": null,
+      "Prerequisites": "Android, Mobile Design, Usability",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 206,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/4Nac3G9iEUtqh8dcRMu4zt/d2504ec00ce958387f10e37bb1d96fae/A_B-Testing-Thumbnail__1_.png",
+      "title": "iOS Design Patterns",
+      "summary": "In this course, you'll explore iOS design patterns — the practical and battle-tested solutions to common problems that are used everyday by developers.",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "2 Days",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 207,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ps001_thumbnail.jpg",
+      "title": "Intro to Psychology",
+      "summary": "Go on a journey through psychological concepts and principles to enable you to gain a more in-depth understanding of human thought and behavior.",
+      "skillsCoverd": ["Pyschology", "Research Methods", "Biology"],
+      "reviewCount": null,
+      "Prerequisites": "Pyschology, Research Methods, Biology",
+      "duration": "4 Months",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 208,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud407_thumbnail.jpg",
+      "title": "Engagement & Monetization | Mobile Games",
+      "summary": "You will learn the most effective monetization strategies for your game, how to  keep your players interested and engaged, so that your game stands out in the app store.",
+      "skillsCoverd": ["Game Development", "Monetization", "Engagement"],
+      "reviewCount": null,
+      "Prerequisites": "Game Development, Monetization, Engagement",
+      "duration": "3 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 209,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5GvaeJovJkUU1Pxk8iXDQP/3826bf26e58e6144045c9ed4c2a5a2b5/catalog-card_2x.jpg",
+      "title": "Ethical AI",
+      "summary": "Learn to apply ethical AI to minimize bias, while maximizing fairness and explainability, ensuring an ethical future for all.",
+      "skillsCoverd": [
+        "AI Fairness",
+        "AI Governance",
+        "AI Transparency",
+        "Model Bias Analysis",
+        "Model Bias Mitigation",
+        "Explainable AI",
+        "Ethical AI"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "AI Fairness,  AI Governance,  AI Transparency,  Model Bias Analysis,  Model Bias Mitigation,  Explainable AI,  Ethical AI",
+      "duration": "1 Month",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 210,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-image-ud080.jpg",
+      "title": "AWS Machine Learning Foundations Course",
+      "summary": "Learn what machine learning is and the steps involved in building and evaluating models. Gain in demand skills needed at businesses working to solve challenges with AI.",
+      "skillsCoverd": [
+        "Computer vision",
+        "Reinforcement learning",
+        "Generative AI",
+        "Machine Learning",
+        "Object-oriented programming"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Computer vision,  Reinforcement learning,  Generative AI,  Machine Learning,  Object-oriented programming",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 211,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/4yoVIT9I95nGbaC6OiuBB0/9f91614281a1b4fabe12d7757ab6df12/cre-421-Catalog_Image.png",
+      "title": "Introduction to Machine Learning using Microsoft Azure",
+      "summary": "Gain a high-level introduction to the field of machine learning and prepare to use Azure Machine Learning Studio to train machine learning models. Plus, learn how to perform a variety of tasks on Azure Machine Learning labs — from data import, transformation and management to training, validating and evaluating models.",
+      "skillsCoverd": [
+        "Machine Learning",
+        "Azure",
+        "Model Training",
+        "Supervised & Unsupervised Learning",
+        "Responsible AI"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Machine Learning,  Azure,  Model Training,  Supervised & Unsupervised Learning,  Responsible AI",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 212,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/q3unRzYDQ2L9ixjTYbI2t/652f278d4788a5e37e6d776c9e68a4cf/cre-382-Catalog_Image.png",
+      "title": "AI Fundamentals",
+      "summary": "AI Fundamentals is an entry point into the world of AI using Microsoft's cloud-based solutions, such as Azure Machine Learning and Azure Cognitive Services.",
+      "skillsCoverd": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Azure",
+        "Computer Vision",
+        "Azure Cognitive Services",
+        "Natural Language Processing",
+        "Conversational AI"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Artificial Intelligence,  Machine Learning,  Azure,  Computer Vision,  Azure Cognitive Services,  Natural Language Processing,  Conversational AI",
+      "duration": "1 Month",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 213,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud953_thumbnail.jpg",
+      "title": "Linear Algebra Refresher Course",
+      "summary": "Learn linear algebra by doing: you will code your own library of linear algebra functions!",
+      "skillsCoverd": ["Algebra", "Python", "Vectors", "Intersections"],
+      "reviewCount": null,
+      "Prerequisites": "Algebra, Python, Vectors, Intersections",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 214,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud741_thumbnail.jpg",
+      "title": "Machine Learning: Unsupervised Learning",
+      "summary": "Ever wonder how Netflix can predict what movies you'll like? Or how Amazon knows what you want to buy before you do? The answer can be found in Unsupervised Learning!",
+      "skillsCoverd": [
+        "Randomized Optimization",
+        "Clustering",
+        "Feature Selection",
+        "Feature Transformation",
+        "Information Theory"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Randomized Optimization, Clustering, Feature Selection, Feature Transformation, Information Theory",
+      "duration": "1 Month",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 215,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud758_thumbnail.jpg",
+      "title": "Big Data Analytics in Healthcare",
+      "summary": "In this course, we introduce the characteristics of medical data and associated data mining challenges on dealing with such data. We cover various algorithms and systems.",
+      "skillsCoverd": [
+        "Data Analytics",
+        "Health Care Applications",
+        "Algorithms"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Data Analytics, Health Care Applications, Algorithms",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 216,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/scholarships/Intel+Edge+AI+Scholarship+Program_mobile.jpg",
+      "title": "Intel® Edge AI Fundamentals with OpenVINO™",
+      "summary": "Stay at the cutting-edge of AI technology by gaining practical skills for deploying edge AI. Learn how to use the Intel Distribution of OpenVINO toolkit to deploy computer vision capabilities inside a range of edge applications.",
+      "skillsCoverd": [
+        "Edge AI",
+        "Intel OpenVINO",
+        "Computer Vision",
+        "Deep Learning"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Edge AI, Intel OpenVINO, Computer Vision, Deep Learning",
+      "duration": "1 Month",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 217,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud954_thumbnail.jpg",
+      "title": "Artificial Intelligence",
+      "summary": "This course gives a survey of topics in AI along with in-depth foundational concepts such as classical search, probability, machine learning, logic and planning.",
+      "skillsCoverd": [
+        "Artificial Intelligence",
+        "Probability",
+        "Bayesian Networks",
+        "Logic and Planning",
+        "Machine Learning"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Artificial Intelligence, Probability, Bayesian Networks, Logic and Planning, Machine Learning",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 218,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud185_thumbnail.png",
+      "title": "Secure and Private AI",
+      "summary": "Learn how to extend PyTorch with the tools necessary to train AI models that preserve user privacy.",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "2 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 219,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud919_thumbnail.jpg",
+      "title": "Model Building and Validation",
+      "summary": "This course will teach you how to start from scratch in understanding and paying attention to what is important in the data and how to answer questions about data.",
+      "skillsCoverd": [
+        "Questioning",
+        "Modeling",
+        "Validation",
+        "Data Analysis",
+        "QMV Process"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Questioning, Modeling, Validation, Data Analysis, QMV Process",
+      "duration": "8 Weeks",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 220,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud507_thumbnail.jpg",
+      "title": "Data Visualization and D3.js",
+      "summary": "Learn the fundamentals of data visualization and apply design and narrative concepts to create your own visualization.",
+      "skillsCoverd": [
+        "d3.js",
+        "Design of Visualizations",
+        "Data Visualization",
+        "Visual Encodings"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "d3.js, Design of Visualizations, Data Visualization, Visual Encodings",
+      "duration": "7 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 221,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud501_thumbnail.jpg",
+      "title": "Machine Learning for Trading",
+      "summary": "Implement machine learning based strategies to make trading decisions using real-world data.",
+      "skillsCoverd": [
+        "Pandas",
+        "Time Series Analysis",
+        "Computational Investing",
+        "Algorithmic Trading",
+        "Reinforcement Learning for Trading"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Pandas, Time Series Analysis, Computational Investing, Algorithmic Trading, Reinforcement Learning for Trading",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 222,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud262_thumbnail.jpg",
+      "title": "Machine Learning",
+      "summary": "In this course, you'll learn how to apply Supervised, Unsupervised and Reinforcement Learning techniques for solving a range of data science problems.",
+      "skillsCoverd": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Information Theory",
+        "Reinforcement Learning",
+        "Game Theory"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Supervised Learning, Unsupervised Learning, Information Theory, Reinforcement Learning, Game Theory",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 223,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud617_thumbnail.jpg",
+      "title": "Intro to Hadoop and MapReduce",
+      "summary": "In this short course, learn the fundamentals of MapReduce and Apache Hadoop to start making sense of Big Data in the real world!",
+      "skillsCoverd": ["Big Data", "Hadoop", "MapReduce"],
+      "reviewCount": null,
+      "Prerequisites": "Big Data, Hadoop, MapReduce",
+      "duration": "1 Month",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 224,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud381_thumbnail.jpg",
+      "title": "Real-Time Analytics with Apache Storm",
+      "summary": "The world is trending in real time! Learn Apache Storm, taught by Twitter, to scalably analyze real-time tweets and drive d3 visualizations. Storm is free, open and fun!",
+      "skillsCoverd": ["Data Analysis", "Real-time Analytics", "Apache Storm"],
+      "reviewCount": null,
+      "Prerequisites": "Data Analysis, Real-time Analytics, Apache Storm",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 225,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/4Nac3G9iEUtqh8dcRMu4zt/d2504ec00ce958387f10e37bb1d96fae/A_B-Testing-Thumbnail__1_.png",
+      "title": "A/B Testing",
+      "summary": "This course will cover the design and analysis of A/B tests, also known as split tests, which are online experiments used to test potential improvements to a website or mobile application. ",
+      "skillsCoverd": [
+        "A/B tests",
+        "Results Analysis",
+        "Statistical Significance"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "A/B tests,  Results Analysis,  Statistical Significance ",
+      "duration": "1 Month",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 226,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud651_thumbnail.jpg",
+      "title": "Data Analysis with R",
+      "summary": "Data is everywhere and so much of it is unexplored. Learn how to investigate and summarize data sets using R and eventually create your own analysis.",
+      "skillsCoverd": ["R", "Exploratory Data Analysis", "Data Visualization"],
+      "reviewCount": null,
+      "Prerequisites": "R, Exploratory Data Analysis, Data Visualization",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 227,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud409_thumbnail.jpg",
+      "title": "Knowledge-Based AI: Cognitive Systems",
+      "summary": "The twin goals of knowledge-based artificial intelligence (AI) are to build AI agents capable of human-level intelligence and gain insights into human cognition.",
+      "skillsCoverd": [
+        "Semantic Networks",
+        "Common-Sense Reasoning",
+        "Logic & Planning",
+        "Analogical Reasoning",
+        "Visuospatial Reasoning"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Semantic Networks, Common-Sense Reasoning, Logic & Planning, Analogical Reasoning, Visuospatial Reasoning",
+      "duration": "7 Weeks",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 228,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-image-ud190.png",
+      "title": "Introduction to TensorFlow Lite",
+      "summary": "Learn how to deploy deep learning models on mobile and embedded devices with TensorFlow Lite.",
+      "skillsCoverd": [
+        "TensorFlow Lite",
+        "Deep Learning Models",
+        "Android",
+        "iOS",
+        "Linux"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "TensorFlow Lite, Deep Learning Models, Android, iOS, Linux",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 229,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud810_thumbnail.jpg",
+      "title": "Introduction to Computer Vision",
+      "summary": "This course provides an introduction to computer vision including fundamentals, methods for application and machine learning classification.",
+      "skillsCoverd": [
+        "Image Processing",
+        "Stereo Geometry",
+        "Feature Detection & Matching",
+        "Object Tracking",
+        "Classification & Recognition"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Image Processing, Stereo Geometry, Feature Detection & Matching, Object Tracking, Classification & Recognition",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 230,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud187_thumbnail.png",
+      "title": "Intro to TensorFlow for Deep Learning",
+      "summary": "Developed by Google and Udacity, this course teaches a practical approach to deep learning for software developers.",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 231,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud104_thumbnail.jpg",
+      "title": "Eigenvectors and Eigenvalues",
+      "summary": "Learn how to calculate eigenvalues and eigenvectors and why they are important for AI applications.",
+      "skillsCoverd": ["Linear Algebra", "Eigenvectors", "Eigenvalues"],
+      "reviewCount": null,
+      "Prerequisites": "Linear Algebra, Eigenvectors, Eigenvalues",
+      "duration": "1 Week",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 232,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs271_thumbnail.jpg",
+      "title": "Intro to Artificial Intelligence",
+      "summary": "This course will introduce you to the basics of AI. Topics include machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing.",
+      "skillsCoverd": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Probability",
+        "Logic and Planning",
+        "Markov models"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Artificial Intelligence, Machine Learning, Probability, Logic and Planning, Markov models",
+      "duration": "4 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 233,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs373_thumbnail.jpg",
+      "title": "Artificial Intelligence for Robotics",
+      "summary": "Learn how to program all the major systems of a robotic car. Topics include planning, search, localization, tracking, and control.",
+      "skillsCoverd": [
+        "Probabilistic Models",
+        "Kalman Filters",
+        "Motion Planning",
+        "Robot Control",
+        "Simultaneous Localization & Mapping"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Probabilistic Models, Kalman Filters, Motion Planning, Robot Control, Simultaneous Localization & Mapping",
+      "duration": "2 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 234,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud188_thumbnail.jpg",
+      "title": "Intro to Deep Learning with PyTorch",
+      "summary": "Learn the basics of deep learning and implement your own deep neural networks with PyTorch",
+      "skillsCoverd": [
+        "Deep Learning",
+        "PyTorch",
+        "Neural Networks",
+        "CNNs",
+        "LSTMs",
+        "Style Transfer"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Deep Learning, PyTorch, Neural Networks, CNNs, LSTMs, Style Transfer",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 235,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-u012.png",
+      "title": "AWS DeepRacer",
+      "summary": "Learn the fundamentals of machine learning and reinforcement learning in a fun and engaging way through autonomous driving with AWS DeepRacer.",
+      "skillsCoverd": [
+        "Machine Learning",
+        "Reinforcement Learning",
+        "AWS DeepRacer"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Machine Learning, Reinforcement Learning, AWS DeepRacer",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 236,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5N2rHu1T1QDdiszCxfP9SG/73f020db2c8ccd8fdd6cadd8eee2f861/cre-485_catelog-image__4_.png",
+      "title": "Reinforcement Learning",
+      "summary": "Learn how to engage with machine learning from a theoretical perspective. Explore automated decision-making and dive into advanced algorithms. ",
+      "skillsCoverd": [
+        "Reinforcement Learning",
+        "Temporal Difference",
+        "Game Theory",
+        "Partially Observable Markov Decision Processes (POMDP)",
+        "Machine Learning"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Reinforcement Learning,  Temporal Difference,  Game Theory,  Partially Observable Markov Decision Processes (POMDP),  Machine Learning",
+      "duration": "4 Months",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 237,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud120_thumbnail.jpg",
+      "title": "Introduction to Machine Learning Course",
+      "summary": "This class will teach you the end-to-end process of investigating data through a machine learning lens. Learn online, with Udacity.",
+      "skillsCoverd": [
+        "Machine Learning",
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Evaluation Metrics",
+        "Data Manipulation"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Machine Learning, Supervised Learning, Unsupervised Learning, Evaluation Metrics, Data Manipulation",
+      "duration": "10 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 238,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud170_thumbnail.jpg",
+      "title": "Intro to Data Analysis",
+      "summary": "Explore a variety of datasets, posing and answering your own questions about each. You'll be using the Python libraries NumPy, Pandas, and Matplotlib.",
+      "skillsCoverd": ["Data Analysis", "Python", "numpy", "pandas"],
+      "reviewCount": null,
+      "Prerequisites": "Data Analysis, Python, numpy, pandas",
+      "duration": "6 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 239,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/7FqeT3nCzgYagrlDdSGzmA/d7700e0cf29dfcd75bd84b2246348017/Google_Digital_Leader.jpg",
+      "title": "SQL for Data Analysis",
+      "summary": "Learn to use Structured Query Language (SQL) to extract and analyze data stored in databases",
+      "skillsCoverd": [
+        "SQL Basics",
+        "SQL Joins",
+        "Data cleaning",
+        "Aggregation"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "SQL Basics,  SQL Joins,  Data cleaning,  Aggregation",
+      "duration": "4 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 240,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud201_thumbnail.jpg",
+      "title": "Intro to Inferential Statistics",
+      "summary": "Intro to Inferential Statistics will teach you how to test your hypotheses and begin to make predictions based on statistical results drawn from data!",
+      "skillsCoverd": [
+        "Inferential Statistics",
+        "Hypothesis Testing",
+        "T-tests",
+        "ANOVA"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Inferential Statistics, Hypothesis Testing, T-tests, ANOVA",
+      "duration": "2 Months",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 241,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-image-ud2002.png",
+      "title": "Spark",
+      "summary": "Master how to work with big data and build machine learning models at scale using Spark!",
+      "skillsCoverd": [
+        "Spark",
+        "SparkSQL",
+        "Spark Dataframes",
+        "Data Wrangling",
+        "Machine Learning"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Spark, SparkSQL, Spark Dataframes, Data Wrangling, Machine Learning",
+      "duration": "10 Hours",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 242,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud404_thumbnail.jpg",
+      "title": "Data Analysis and Visualization",
+      "summary": "This course will introduce students to the field by covering state­-of-­the-art modeling, analysis and visualization techniques.",
+      "skillsCoverd": [
+        "R",
+        "Data Analysis",
+        "Data Visualization",
+        "Regression"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "R, Data Analysis, Data Visualization, Regression",
+      "duration": "16 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 243,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/19R7sbC0dj20AT3efIHoXF/01fe83ca11332be5849df92bf64cc13a/ud500-Program-Catalog-Image.jpg",
+      "title": "Oracle Autonomous Database Administration",
+      "summary": "Dive into the fundamentals of autonomous databases. Explore the process of planning, implementing, and deploying an Oracle Autonomous Database, the first and only autonomous database service in the cloud.",
+      "skillsCoverd": [
+        "Oracle Autonomous Database",
+        "Exadata infrastructure",
+        "Oracle Machine Learning",
+        "APEX",
+        "and SQL Developer Web",
+        "Autonomous JSON",
+        "Oracle Text",
+        "Spatial",
+        "and Graph"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Oracle Autonomous Database,  Exadata infrastructure,  Oracle Machine Learning,  APEX,  and SQL Developer Web,  Autonomous JSON,  Oracle Text,  Spatial,  and Graph",
+      "duration": "1 Week",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 244,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/5VrVc51PgbbRhfXNK9IbVZ/b90a390e9be346fbbd988a6d920dd75f/ud502-Program-Catalog-Image.jpg",
+      "title": "Oracle Cloud Infrastructure Architect Associate",
+      "summary": "Develop key insights into key concepts and features of Oracle Cloud Infrastructure (OCI).",
+      "skillsCoverd": [
+        "VCN",
+        "Network security",
+        "load balancer and traffic management",
+        "OCI Compute and storage",
+        "autoscaling",
+        "OS management"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "VCN,  Network security,  load balancer and traffic management,  OCI Compute and storage,  autoscaling,  OS management",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 245,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/3WOzlz61bkHujX0lct4XP5/90bd3c23dacf335b4ac56347b4c27d04/ud503-Program-Catalog-Image.jpg",
+      "title": "Oracle Cloud Infrastructure Architect Professional",
+      "summary": "This course will help you gain strong knowledge through hands-on experience with architecting infrastructure using Oracle Cloud Infrastructure services.",
+      "skillsCoverd": [
+        "OCI",
+        "Cloud solution",
+        "N-tier applications",
+        "microservices",
+        "and serverless architecture"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "OCI,  Cloud solution,  N-tier applications,  microservices,  and serverless architecture",
+      "duration": "1 Week",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 246,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/7EvcY1lzGUTNpKjYdvFKHl/67eae10a81f5b9376d78d077648aa2ed/ud504-Program-Catalog-Image.jpg",
+      "title": "Oracle Cloud Infrastructure Foundations",
+      "summary": "Develop foundational knowledge of Oracle Cloud Infrastructure Cloud Services.",
+      "skillsCoverd": [
+        "OCI",
+        "OCI service offerings",
+        "OCI security model",
+        "OCI compliance structure",
+        "OCI pricing",
+        "support model",
+        "and operations."
+      ],
+      "reviewCount": null,
+      "Prerequisites": "OCI,  OCI service offerings,  OCI security model,  OCI compliance structure,  OCI pricing,  support model,  and operations.",
+      "duration": "1 Week",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 247,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/59A9kCPkfsZSFnu6PXAvNd/2035c943c3e93891cf267375f41cb6dc/ud505-Program-Catalog-Image.jpg",
+      "title": "Oracle Cloud Infrastructure Operations Professional",
+      "summary": "This course is going to walk you through some of the day-to-day operational activities that you might find yourself managing in the Oracle Cloud Infrastructure ecosystem.",
+      "skillsCoverd": [
+        "OCI CLI",
+        "Oracle Resource Manager",
+        "Manage custom images",
+        "Network Security Architecture"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "OCI CLI,  Oracle Resource Manager,  Manage custom images,  Network Security Architecture",
+      "duration": "1 Week",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 248,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/JbvnFK8a8w7SEqictkzuJ/72490269d5ac028772b9efc284a73367/GoogleCloud.jpg",
+      "title": "Google Cloud Digital Leader Training",
+      "summary": "Gain foundational literacy in cloud & digital transformation. Increase your cloud confidence so you can speak with colleagues in technical cloud roles and contribute to informed cloud-related business decisions.",
+      "skillsCoverd": [
+        "Google Cloud Fundamentals",
+        "Cloud Computing Fluency",
+        "Digital Transformation Strategy",
+        "Data Innovation",
+        "IT Infrastructure Modernization",
+        "Application Modernization",
+        "Cloud Cost Governance",
+        "Cloud Security Fluency",
+        "Cloud Operational Efficiency"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Google Cloud Fundamentals,  Cloud Computing Fluency,  Digital Transformation Strategy,  Data Innovation,  IT Infrastructure Modernization,  Application Modernization,  Cloud Cost Governance,  Cloud Security Fluency,  Cloud Operational Efficiency",
+      "duration": "2 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 249,
+      "imageUrl": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/7bYIMkP7qy3ZT4sGCm8NmU/452587a4a9596da55548b55e4c78fc79/cre-674_Catalog_Image.jpg",
+      "title": "Cloud Native Fundamentals",
+      "summary": "Throughout this course, students will learn how to structure, package, and release an application to a Kubernetes cluster, while using an automated CI/CD pipeline.",
+      "skillsCoverd": [
+        "Kubernetes",
+        "Docker",
+        "Cloud Computing Fluency",
+        "Cloud Architecture Model Types",
+        "CI/CD",
+        "Application Development Best Practices",
+        "Argo CD",
+        "Github Actions",
+        "Platform as a Service"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Kubernetes,  Docker,  Cloud Computing Fluency,  Cloud Architecture Model Types,  CI/CD,  Application Development Best Practices,  Argo CD,  Github Actions,  Platform as a Service",
+      "duration": "1 Month",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 250,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud9876_thumbnail.jpg",
+      "title": "Cyber-Physical Systems Design & Analysis",
+      "summary": "This course provides an introduction to cyber-physical systems with an industrial perspective.",
+      "skillsCoverd": [""],
+      "reviewCount": null,
+      "Prerequisites": "",
+      "duration": "16 Weeks",
+      "level": "advanced",
+      "rating": null
+    },
+    {
+      "id": 251,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs222_thumbnail.jpg",
+      "title": "Differential Equations in Action",
+      "summary": "Write Python code to find numerical solutions to systems of differential equations. The models you create will fight wildfires, bring spaceships back to earth, and more!",
+      "skillsCoverd": ["Math", "Differential Equations"],
+      "reviewCount": null,
+      "Prerequisites": "Math, Differential Equations",
+      "duration": "2 Months",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 252,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud0419_thumbnail.jpg",
+      "title": "Self-Driving Fundamentals: Featuring Apollo ",
+      "summary": "Identify key parts of self-driving cars, utilize Apollo HD Map, localization, perception, prediction, planning and control, and start the learning path of building a self-driving car. ",
+      "skillsCoverd": [
+        "Apollo HD Map",
+        "Localization",
+        "Perception",
+        "Prediction",
+        "Planning",
+        "Control"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Apollo HD Map, Localization, Perception, Prediction, Planning, Control",
+      "duration": "4 Weeks",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 253,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/ud034-catalog-image.jpg",
+      "title": "Product Manager Interview Preparation",
+      "summary": "Ace your product management interview by understanding how to answer key strategic, technical, and practical product questions.",
+      "skillsCoverd": [
+        "Product Management",
+        "Interview Preparation",
+        "Career Advancement",
+        "Product Strategy",
+        "Technical Interview"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Product Management, Interview Preparation, Career Advancement, Product Strategy, Technical Interview",
+      "duration": "1 Week",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 254,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-ud244.jpg",
+      "title": "Craft Your Cover Letter",
+      "summary": "Write a compelling narrative that showcases your value to the company.",
+      "skillsCoverd": [
+        "Creating a narrative",
+        "Targeting your pitch",
+        "Communicating value",
+        "Career Advancement"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Creating a narrative, Targeting your pitch, Communicating value, Career Advancement",
+      "duration": "1 Day",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 255,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-ud243.jpg",
+      "title": "Refresh Your Resume",
+      "summary": "Create a targeted resume that gets the attention of recruiters and lands you an interview in tech.",
+      "skillsCoverd": [
+        "Resume writing",
+        "Company targeting",
+        "Storytelling",
+        "Career Advancement"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Resume writing, Company targeting, Storytelling, Career Advancement",
+      "duration": "2 Days",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 256,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-ud242.jpg",
+      "title": "Strengthen Your LinkedIn Network & Brand",
+      "summary": "Learn how to excel at networking both in-person and on LinkedIn.",
+      "skillsCoverd": [
+        "Personal branding",
+        "LinkedIn",
+        "Networking",
+        "Career Advancement"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Personal branding, LinkedIn, Networking, Career Advancement",
+      "duration": "1 Week",
+      "level": "beginner",
+      "rating": null
+    },
+    {
+      "id": 257,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-ud944.jpg",
+      "title": "Data Science Interview Prep",
+      "summary": "Prepare for data science interviews by practicing data analysis, machine learning, and data structure and algorithms questions.",
+      "skillsCoverd": [
+        "Interview practice",
+        "Common Data Questions",
+        "Data Structures",
+        "Career Advancement"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Interview practice, Common Data Questions, Data Structures, Career Advancement",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 258,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-ud241.jpg",
+      "title": "Android Interview Prep",
+      "summary": "Learn how to respond to common Android and mobile development interview questions.",
+      "skillsCoverd": [
+        "Interview practice",
+        "Common Android Questions",
+        "Whiteboarding"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Interview practice, Common Android Questions, Whiteboarding",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 259,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud1001_catalog.png",
+      "title": "Machine Learning Interview Preparation",
+      "summary": "In this course, you’ll learn exactly what to expect during a machine learning interview.",
+      "skillsCoverd": [
+        "Interview practice",
+        "Machine Learning",
+        "Career Advancement"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Interview practice, Machine Learning, Career Advancement",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 260,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-ud250.jpg",
+      "title": "Front-End Interview Prep",
+      "summary": "Answer front-end technical and behavioral interview questions with confidence and poise.",
+      "skillsCoverd": [
+        "Interview questions",
+        "Common FE Questions",
+        "Whiteboarding",
+        "Career Advancement"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Interview questions, Common FE Questions, Whiteboarding, Career Advancement",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 261,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-ud252.jpg",
+      "title": "Full-Stack Interview Prep",
+      "summary": "Answer common full stack and web security interview questions with confidence and poise.",
+      "skillsCoverd": [
+        "Interview practice",
+        "Common FS Questions",
+        "Whiteboarding",
+        "Career Advancement"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Interview practice, Common FS Questions, Whiteboarding, Career Advancement",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 262,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-ud1011.jpg",
+      "title": "Data Structures & Algorithms in Swift",
+      "summary": "Review and practice the skills technical interviewers expect you to know and learn how to explain your Swift solutions.",
+      "skillsCoverd": [
+        "Interview practice",
+        "Swift",
+        "Data structures",
+        "Career Advancement"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Interview practice, Swift, Data structures, Career Advancement",
+      "duration": "4 Weeks",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 263,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-ud240.jpg",
+      "title": "iOS Interview Prep",
+      "summary": "Answer iOS and mobile development interview questions with confidence and poise.",
+      "skillsCoverd": [
+        "Interview practice",
+        "Common iOS Questions",
+        "Whiteboarding",
+        "Career Advancement"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Interview practice, Common iOS Questions, Whiteboarding, Career Advancement",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    },
+    {
+      "id": 264,
+      "imageUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/course-catalog/en-us/catalog-img-ud251.jpg",
+      "title": "VR Interview Prep",
+      "summary": "Learn how to tackle interview questions for technical roles in VR Development.",
+      "skillsCoverd": [
+        "Interview practice",
+        "Common VR Questions",
+        "Whiteboarding",
+        "Career Advancement"
+      ],
+      "reviewCount": null,
+      "Prerequisites": "Interview practice, Common VR Questions, Whiteboarding, Career Advancement",
+      "duration": "1 Week",
+      "level": "intermediate",
+      "rating": null
+    }
+  ]
+}
